@@ -1,0 +1,69 @@
+site_name: Michael Jackson Ndueso | Engineering Documentation
+site_url: https://jevmis.github.io/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+nav:
+  - Home: index.md
+
+  - About:
+      - Overview: about/index.md
+
+  - QA Engineering:
+      - Overview: qa/index.md
+      - Test Strategy: qa/test-strategy.md
+      - Test Plans: qa/test-plans.md
+      - Bug Management: qa/bug-management.md
+
+  - Automation:
+      - Cypress: automation/cypress.md
+      - Playwright: automation/playwright.md
+
+  - API Testing:
+      - Postman: api/postman.md
+      - Swagger: api/swagger.md
+
+  - Performance Testing:
+      - Overview: performance/index.md
+      - JMeter: performance/jmeter.md
+
+  - Security:
+      - Overview: security/index.md
+      - OWASP: security/owasp.md
+
+  - DevOps:
+      - Overview: devops/index.md
+      - CI/CD: devops/cicd.md
+
+  - SQL:
+      - Overview: sql/index.md
+
+  - Certifications:
+      - Certifications: certifications/index.md
+
+  - Portfolio:
+      - Projects: portfolio/index.md
+
+  - Career:
+      - Career Journey: career/index.md
+
+  - Contact:
+      - Contact: contact/index.md
