@@ -6,8 +6,12 @@
 
 ---
 
-![Profile](assets/branding/profile.jpg){ width="220" align="right" }
-
+## Professional Snapshot
+<img
+    src="assets/branding/profile.jpg"
+    alt="Michael Jackson Ndueso"
+    class="profile-photo">
+    
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
 [Download Resume](about/resume.md){ .md-button }
 [Contact Me](contact/index.md){ .md-button }
@@ -22,7 +26,6 @@ Over the years, I've worked on enterprise applications, fintech platforms, healt
 
 ---
 
-## Professional Snapshot
 
 <div class="grid cards" markdown>
 
