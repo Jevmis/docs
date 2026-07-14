@@ -13,11 +13,15 @@
 # Michael Jackson Ndueso
 
 ## Senior Quality Assurance Engineer • Test Automation Engineer • SDET
+[:fontawesome-brands-github:](https://github.com/Jevmis)
+[:fontawesome-brands-linkedin:](https://linkedin.com/in/michaeljndueso)
+[:fontawesome-brands-upwork:](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share)
+[:fontawesome-brands-x-twitter:](https://x.com/jevmis)
+[:material-email-outline:](mailto:Michaeljndueso@outlook.com)
 
 > Building reliable software through **Quality Engineering**, **Test Automation**, **API Testing**, **Performance Testing**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
 ---
-    
 [View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
 [Download Resume](about/resume.md){ .md-button }
 [Contact Me](contact/index.md){ .md-button }
@@ -349,16 +353,11 @@ I continuously invest in professional development through certifications in Qual
 ---
 
 # Let's Connect
-
-[GitHub](https://github.com/Jevmis){ .md-button }
-
-[LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
-
-[Upwork](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
-
-[X (Twitter)](https://x.com/jevmis){ .md-button }
-
-[Email](mailto:Michaeljndueso@outlook.com){ .md-button }
+[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
+[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
+[:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
+[:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button }
+[:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
 
 ---
 
