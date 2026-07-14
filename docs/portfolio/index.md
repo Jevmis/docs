@@ -1,6 +1,6 @@
-# :material-folder-star: Portfolio
+# :material-folder-open: Portfolio
 
-> A collection of projects, automation frameworks, QA documentation, testing strategies, dashboards, and engineering solutions I've built throughout my career.
+> A collection of Quality Assurance projects, automation frameworks, technical documentation, dashboards, and engineering solutions I've built throughout my career.
 
 ---
 
@@ -8,41 +8,40 @@
 
 My portfolio showcases practical work across the Software Quality Assurance lifecycle.
 
-Rather than simply testing software, I enjoy designing quality processes, building reusable automation frameworks, improving testing efficiency, and helping teams deliver software with confidence.
-
-This portfolio highlights real engineering work spanning manual testing, automation, API testing, performance testing, security testing, documentation, reporting, and DevOps.
+Rather than simply testing software, I enjoy designing quality processes, building reusable automation frameworks, improving engineering workflows, and helping teams deliver reliable software with confidence.
 
 ---
 
-## :material-robot: Test Automation
+# :material-robot: Test Automation
 
 Modern automation frameworks built using industry-standard tools.
 
-Topics include:
+### Areas Covered
 
 - Cypress Automation
 - Playwright Automation
-- Framework Architecture
-- Cross-browser Testing
 - UI Automation
 - API Automation
-- Page Object Model (POM)
-- Reusable Utilities
+- Framework Architecture
+- Cross-browser Testing
+- Reusable Components
+- Test Reporting
 
 [Explore Automation Frameworks](frameworks.md){ .md-button .md-button--primary }
 
 ---
 
-## :material-test-tube: Quality Assurance
+# :material-test-tube: Quality Assurance
 
-Comprehensive QA documentation and testing processes.
+Comprehensive QA processes and documentation.
 
-Including:
+### Includes
 
-- Test Strategies
-- Test Plans
-- Test Cases
-- Regression Planning
+- Test Strategy
+- Test Planning
+- Test Case Design
+- Regression Testing
+- UAT
 - Defect Management
 - QA Templates
 - QA Checklists
@@ -50,27 +49,27 @@ Including:
 
 ---
 
-## :material-api: API Testing
+# :material-api: API Testing
 
-API validation forms an important part of modern software testing.
+Building confidence in backend services through robust API validation.
 
-My work includes:
+### Technologies
 
-- REST API Testing
-- Postman Collections
+- REST APIs
+- Postman
 - Swagger / OpenAPI
 - Newman
-- API Automation
 - Authentication Testing
 - Response Validation
+- API Automation
 
 ---
 
-## :material-speedometer: Performance Engineering
+# :material-speedometer: Performance Testing
 
-Performance testing ensures applications remain reliable under load.
+Ensuring applications remain stable and responsive under load.
 
-Projects include:
+### Projects
 
 - Apache JMeter
 - Load Testing
@@ -81,26 +80,26 @@ Projects include:
 
 ---
 
-## :material-shield-check: Security Testing
+# :material-shield-check: Security Testing
 
-Security is an essential part of software quality.
+Security validation integrated into the QA process.
 
-Areas include:
+### Areas
 
 - OWASP Top 10
 - OWASP ZAP
 - Authentication Testing
+- Authorization Testing
 - Input Validation
-- Security Verification
 - Vulnerability Assessment
 
 ---
 
-## :material-database: SQL Validation
+# :material-database: SQL Validation
 
-Reliable software depends on accurate data.
+Reliable software begins with reliable data.
 
-Portfolio examples include:
+### Experience
 
 - SQL Validation
 - Backend Verification
@@ -110,38 +109,38 @@ Portfolio examples include:
 
 ---
 
-## :material-google-spreadsheet: Google Sheets QA Dashboards
+# :material-chart-line: Google Sheets QA Dashboards
 
 One of my favourite engineering projects.
 
 Using Google Sheets automation, I developed dashboards capable of:
 
-- Tracking Test Execution
-- Monitoring Bug Status
-- Visualising QA Metrics
-- Measuring Test Coverage
-- Reporting Release Progress
-- Providing Real-time Team Insights
+- Test Execution Tracking
+- Bug Status Monitoring
+- QA Metrics
+- Test Coverage Reporting
+- Release Progress
+- Real-time Team Reporting
 
-These dashboards significantly reduced manual reporting effort while improving visibility across QA activities.
+These dashboards reduced manual reporting while giving stakeholders real-time visibility into software quality.
 
 ---
 
-## :material-cloud-sync: DevOps
+# :material-cloud-sync: DevOps
 
 Quality extends beyond testing into deployment.
 
-Areas include:
+### Experience
 
 - GitHub Actions
 - CI/CD Pipelines
-- Release Validation
 - Continuous Testing
+- Release Validation
 - Automation Integration
 
 ---
 
-## :material-book-open-page-variant: Documentation
+# :material-file-document-outline: Documentation
 
 I enjoy creating documentation that helps teams become more productive.
 
@@ -150,7 +149,7 @@ Examples include:
 - Test Strategies
 - Test Plans
 - QA Workflows
-- Standard Operating Procedures (SOPs)
+- SOPs
 - Knowledge Bases
 - Wiki.js Documentation
 - Bug Reporting Standards
@@ -158,24 +157,24 @@ Examples include:
 
 ---
 
-# :material-star-four-points: Featured Work
+# :material-star-outline: Featured Work
 
 Some of the projects featured throughout this portfolio include:
 
-- QA Documentation Suite
+- Enterprise QA Documentation Suite
 - Cypress Automation Framework
 - Playwright Automation Framework
 - API Testing Collections
-- Google Sheets QA Dashboard
+- Google Sheets QA Dashboards
 - Wiki.js Knowledge Base
-- Performance Testing with Apache JMeter
-- Security Testing using OWASP ZAP
-- CI/CD Automation
+- Apache JMeter Performance Testing
+- OWASP ZAP Security Testing
+- GitHub Actions CI/CD
 - Technical Documentation
 
 ---
 
-# :material-lightbulb-on: Engineering Philosophy
+# :material-lightbulb-outline: Engineering Philosophy
 
 Every project I build follows a few core principles:
 
@@ -186,13 +185,11 @@ Every project I build follows a few core principles:
 - Collaboration
 - Continuous Improvement
 
-Good engineering is not just about solving today's problems—it's about creating solutions that remain valuable as systems evolve.
+Good engineering isn't just about solving today's problems—it's about building solutions that continue to provide value as systems evolve.
 
 ---
 
-# :material-compass-outline: Explore My Work
-
-Continue exploring each section of my portfolio.
+# :material-compass-outline: Continue Exploring
 
 - [Featured Projects](projects.md)
 - [Automation Frameworks](frameworks.md)
