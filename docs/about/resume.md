@@ -10,15 +10,13 @@
 
 📍 Abuja, Nigeria
 
-📧 Michaeljndueso@outlook.com
-
-🌐 https://michaeljndueso.is-a.dev
-
-💼 Upwork: https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share
-
-🐙 GitHub: https://github.com/Jevmis
-
-💼 LinkedIn: https://linkedin.com/in/michaeljndueso
+<div class="md-social" style="margin: 10px 0 20px 0;">
+  <a href="mailto:Michaeljndueso@outlook.com" class="md-social__link">[:material-email-outline:]</a>
+  <a href="https://michaeljndueso.is-a.dev" class="md-social__link">[:material-web:]</a>
+  <a href="https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share" class="md-social__link">[:fontawesome-brands-upwork:]</a>
+  <a href="https://github.com/Jevmis" class="md-social__link">[:fontawesome-brands-github:]</a>
+  <a href="https://linkedin.com/in/michaeljndueso" class="md-social__link">[:fontawesome-brands-linkedin:]</a>
+</div>
 
 ---
 
