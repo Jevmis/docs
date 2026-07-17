@@ -17,7 +17,15 @@ The dashboard automatically pulls data from multiple Google Sheets, processes it
 *   `IFERROR` — Ensures clean data presentation by systematically catching null calculations or empty date ranges.
 
 ### 🖥️ Live Dashboard Preview
-<iframe src="https://docs.google.com/spreadsheets/d/1PorvTP_4XBid7kL2LEoT_NDbzhMhJskhFx54liF5QDI/htmlembed?gid=1457376236&widget=false&chrome=false&headers=false" width="100%" height="600px" style="border: 1px solid #e1e4e8; border-radius: 6px;"></iframe>
+<div style="text-align:center; margin: 2rem 0;">
+  <iframe
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPtjfBegnpAEkAX0WuWuFuD9iL52h17Olrsp52k1g6LpD98vrRlflhPwfQ8kzPQgHHoF6Z4dRWeyYQ/pubhtml?widget=true&headers=false"
+    width="100%"
+    height="700"
+    frameborder="0"
+    style="border:1px solid #ddd; border-radius:12px;">
+  </iframe>
+</div>
 
 ---
 
