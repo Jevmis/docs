@@ -151,4 +151,4 @@ Together, they demonstrate my approach to Quality Engineering—building practic
 
 ---
 
-> **"Great engineering isn't just about finding defects—it's about building systems that help prevent them."**
+> **"Great engineering isn't just about finding defects,it's about building systems that help prevent them."**
