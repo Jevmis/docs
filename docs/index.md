@@ -68,7 +68,16 @@
 
     [Explore →](portfolio/engineering-showcase/wiki-documentation.md)
 
-    - :material-file-document-multiple:
+
+- :material-source-branch:
+
+    ## 🚀 CI/CD & DevOps
+
+    Designed automation frameworks with CI/CD readiness in mind, integrating automated testing into modern software delivery pipelines using GitHub Actions, Git, Docker, Cypress, and Playwright.
+
+    [Explore →](portfolio/engineering-showcase/ci-cd.md)
+
+- :material-file-document-multiple:
 
     ## 📝 QA Documentation Suite
 

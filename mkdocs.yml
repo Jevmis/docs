@@ -167,6 +167,7 @@ nav:
           - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
           - 🐞 Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
           - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
+          - 🚀 CI/CD & DevOps: portfolio/engineering-showcase/ci-cd.md
 
       - ⭐ Featured Projects: portfolio/projects.md
       - 🤖 Automation Frameworks: portfolio/frameworks.md
