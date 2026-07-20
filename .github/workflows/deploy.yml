@@ -30,3 +30,8 @@ jobs:
 
       - name: Deploy MkDocs
         run: python -m mkdocs gh-deploy --force
+
+      - name: Deploy MkDocs
+        run: |
+          echo "michaeljndueso.is-a.dev" > docs/CNAME
+          python -m mkdocs gh-deploy --force
