@@ -52,9 +52,7 @@ Over the years, I have created documentation including:
 
 # Sample Documentation
 
-> *(Insert a screenshot of one of your documentation pages here.)*
-
-![](../../assets/images/engineering-showcase/documentation/qa-documentation.png){ loading=lazy }
+![](../../assets/images/engineering-showcase/documentation/test-plan-sample.png){ loading=lazy }
 
 ---
 
