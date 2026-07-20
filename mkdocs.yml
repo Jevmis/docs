@@ -167,12 +167,26 @@ nav:
           - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
           - 🐞 Bug Reporting & Defect Management: portfolio/engineering-showcase/bug-reports.md
           - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
+          - 🛡️ Security Testing (OWASP ZAP): portfolio/engineering-showcase/security-testing.md
           - 🚀 CI/CD & DevOps: portfolio/engineering-showcase/ci-cd.md
-
+      - 🧰 QA Engineering Toolkit: portfolio/toolkit.md
       - ⭐ Featured Projects: portfolio/projects.md
       - 🤖 Automation Frameworks: portfolio/frameworks.md
       - 📖 QA Case Studies: portfolio/case-studies.md
       - 🌍 Open Source: portfolio/open-source.md
+
+      - 🎓 Certifications:
+        - Overview & Highlights: portfolio/certifications/index.md
+        - All Certifications Registry: portfolio/certifications/all-certifications.md
+        - QA Automation: portfolio/certifications/qa-automation.md
+        - Software Engineering: portfolio/certifications/software-engineering.md
+        - API Testing: portfolio/certifications/api-testing.md
+        - Cybersecurity & Privacy: portfolio/certifications/cybersecurity.md
+        - DevOps & Cloud Support: portfolio/certifications/devops-cloud.md
+        - Data Analytics: portfolio/certifications/data-analytics.md
+        - Operations & Project Management: portfolio/certifications/operations-management.md
+        - Customer Experience: portfolio/certifications/customer-experience.md
+        - Leadership & Management: portfolio/certifications/leadership.md
 
   - ✍️ Engineering Journal:
     - Overview: journal/index.md
@@ -231,6 +245,7 @@ nav:
       - Overview: certifications/index.md
       - Professional Certifications: certifications/professional.md
       - Learning Journey: certifications/journey.md
+    
 
   - 💼 Career:
       - Overview: career/index.md

@@ -36,14 +36,6 @@
 
 <div class="grid cards" markdown>
 
-- :material-chart-line:
-
-    ## 📊 Reporting Systems & QA Dashboards
-
-    Designed reporting systems and automated dashboards that transformed testing data into actionable insights for QA teams, management, customer service, and executive stakeholders using Google Sheets and workflow automation.
-
-    [Explore →](portfolio/engineering-showcase/reporting-systems.md)
-
 - :simple-cypress:
 
     ## :simple-cypress: Cypress Automation Framework
@@ -56,40 +48,31 @@
 
     ## 🎭 Playwright Automation Framework
 
-    Modern cross-browser automation framework built with Playwright, TypeScript, reusable components, and reporting.
+    Modern cross-browser automation framework built with Playwright, TypeScript, reusable components, reporting, and cross-browser execution.
 
-    [Explore →](portfolio/engineering-showcase/playwright-framework.md)
-
-- :material-book-open-page-variant:
-
-    ## 🧠 Knowledge Management System (KMS)
-
-    Designed and administered centralized engineering knowledge bases that streamlined onboarding,        standardized QA processes, and improved collaboration through role-based documentation management.
-
-    [Explore →](portfolio/engineering-showcase/wiki-documentation.md)
-
-
-- :material-source-branch:
-
-    ## 🚀 CI/CD & DevOps
-
-    Designed automation frameworks with CI/CD readiness in mind, integrating automated testing into modern software delivery pipelines using GitHub Actions, Git, Docker, Cypress, and Playwright.
-
-    [Explore →](portfolio/engineering-showcase/ci-cd.md)
+     [Explore →](portfolio/engineering-showcase/playwright-framework.md)
 
 - :material-file-document-multiple:
 
     ## 📝 QA Documentation Suite
 
-    Authored comprehensive QA documentation including Test Plans, Test Cases, SOPs, User Acceptance Testing (UAT) documents, Release Notes, Bug Reporting Standards, QA Workflows, and Engineering Guides used across multiple projects.
+    Authored comprehensive QA documentation including Test Plans, Test Cases, SOPs, User Acceptance Testing (UAT) documents, Release Notes, Bug Reporting Standards, QA workflows, and engineering guides used across multiple projects.
 
     [Explore →](portfolio/engineering-showcase/qa-documentation.md)
+
+- :material-book-open-page-variant:
+
+    ## 🧠 Knowledge Management System (KMS)
+
+    Designed and administered centralized engineering knowledge bases that streamlined onboarding, standardized QA processes, product documentation, and collaboration through role-based access control and structured documentation.
+
+    [Explore →](portfolio/engineering-showcase/wiki-documentation.md)
 
 - :material-api:
 
     ## 🔌 API Testing
 
-    REST API validation, Postman collections, Swagger/OpenAPI documentation, authentication testing, and API automation.
+    Designed and executed REST API testing strategies covering functional validation, authentication, contract verification, negative scenarios, backend validation, and automated API regression using Postman, Swagger/OpenAPI, SQL, and Cypress.
 
     [Explore →](portfolio/engineering-showcase/api-testing.md)
 
@@ -105,10 +88,34 @@
 
     ## ⚡ Performance Engineering
 
-    Load testing, stress testing, bottleneck analysis, performance metrics, and capacity planning using Apache JMeter.
+    Conducted load, stress, and performance testing using Apache JMeter to identify bottlenecks, evaluate system scalability, analyze performance metrics, and support capacity planning through detailed HTML performance reports.
 
-    [Explore →](portfolio/engineering-showcase/jmeter.md)
+     [Explore →](portfolio/engineering-showcase/jmeter.md)
 
+- :material-shield-check:
+
+    ## 🛡️ Security Testing (OWASP ZAP)
+
+    Performed baseline web application security assessments using OWASP ZAP to identify common vulnerabilities, validate security controls, generate remediation reports, and support secure software delivery aligned with the OWASP Top 10.
+
+    [Explore →](portfolio/engineering-showcase/security-testing.md)
+
+- :material-source-branch:
+
+    ## 🚀 CI/CD & DevOps
+
+    Designed automation frameworks with CI/CD readiness in mind, integrating automated testing into modern software delivery pipelines using GitHub Actions, Git, Docker, Cypress, and Playwright.
+
+     [Explore →](portfolio/engineering-showcase/ci-cd.md)
+
+- :material-chart-line:
+
+    ## 📊 Reporting Systems & QA Dashboards
+
+    Designed reporting systems and automated dashboards that transformed testing data into actionable insights for QA teams, management, customer service, and executive stakeholders using Google Sheets and workflow automation.
+
+    [Explore →](portfolio/engineering-showcase/reporting-systems.md)
+  
 </div>
 ---
 
@@ -179,7 +186,7 @@ I have earned certifications across multiple technical domains, including:
 
 With **90+ professional certifications** from organizations including **Google, Mozilla, LinkedIn Learning, IBM, EC-Council, Coursera, Atlassian, BlazeMeter, Jack Welch Management Institute**, and others, I continuously invest in expanding my technical expertise and staying current with industry best practices.
 
-[View All Certifications](certifications/index.md){ .md-button .md-button--primary }
+[View All Certifications](portfolio\certifications\all-certifications.md){ .md-button .md-button--primary }
 
 ---
 # 🏗️ Engineering Principles
