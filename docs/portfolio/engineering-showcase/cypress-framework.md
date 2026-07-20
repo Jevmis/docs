@@ -214,4 +214,4 @@ The goal is to build automation that scales alongside the application it support
 
 ---
 
-> **"Good automation isn't measured by the number of tests,it is measured by how easily those tests evolve with the product."**
+> **"Good automation isn't measured by the number of tests, it is measured by how easily those tests evolve with the product."**

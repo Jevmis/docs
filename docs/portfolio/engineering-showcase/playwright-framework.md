@@ -10,7 +10,7 @@ As I expanded my automation expertise beyond Cypress, I began exploring Playwrig
 
 Rather than simply learning a new tool, I focused on understanding the engineering principles behind building reliable automation frameworks that remain maintainable as applications evolve.
 
-My Playwright framework reflects that journey—applying clean architecture, reusable components, and software engineering best practices to automated testing.
+My Playwright framework reflects that journey, applying clean architecture, reusable components, and software engineering best practices to automated testing.
 
 ---
 
@@ -187,4 +187,4 @@ Understanding these concepts has helped me build automation that is easier to ex
 
 ---
 
-> **"A good automation framework doesn't just execute tests,it makes future maintenance easier."**
+> **"A good automation framework doesn't just execute tests, it makes future maintenance easier."**
