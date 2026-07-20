@@ -68,7 +68,7 @@
 
     Test strategies, SOPs, release documentation, templates, onboarding guides, and QA workflows.
 
-    <!-- [Explore →](portfolio/engineering-showcase/qa-documentation.md) -->
+    [Explore →](portfolio/engineering-showcase/qa-documentation.md)
 
 - :material-book-open-page-variant:
 
