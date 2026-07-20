@@ -169,7 +169,7 @@ The report summarizes:
 
 [:material-download: Download Resume (PDF)](../assets/files/zap_report.pdf){ .md-button .md-button--primary }
 
-[:material-download: Download Resume (PDF)](../assets/files/Michael_Jackson_Ndueso_Resume.pdf){ .md-button .md-button--primary }
+<!-- [:material-download: Download Resume (PDF)](../assets/files/Michael_Jackson_Ndueso_Resume.pdf){ .md-button .md-button--primary } -->
 ---
 
 # Skills Demonstrated
