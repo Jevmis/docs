@@ -186,7 +186,7 @@ I have earned certifications across multiple technical domains, including:
 
 With **90+ professional certifications** from organizations including **Google, Mozilla, LinkedIn Learning, IBM, EC-Council, Coursera, Atlassian, BlazeMeter, Jack Welch Management Institute**, and others, I continuously invest in expanding my technical expertise and staying current with industry best practices.
 
-[View All Certifications](portfolio\certifications\all-certifications.md){ .md-button .md-button--primary }
+[View All Certifications](certifications/index.md){ .md-button .md-button--primary }
 
 ---
 # 🏗️ Engineering Principles
