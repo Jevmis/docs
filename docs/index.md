@@ -52,7 +52,7 @@
 
     Scalable automation framework featuring Page Object Model (POM), reusable commands, fixtures, reporting, and maintainable architecture.
 
-    <!-- [Explore →](portfolio/engineering-showcase/cypress-framework.md) -->
+    [Explore →](portfolio/engineering-showcase/cypress-framework.md)
 
 - :material-play-circle:
 
@@ -60,7 +60,7 @@
 
     Modern cross-browser automation framework built with Playwright, TypeScript, reusable components, and reporting.
 
-    <!-- [Explore →](portfolio/engineering-showcase/playwright-framework.md) -->
+    [Explore →](portfolio/engineering-showcase/playwright-framework.md)
 
 - :material-file-document-multiple:
 

@@ -64,6 +64,7 @@ plugins:
   - awesome-pages
   - minify
   - git-revision-date-localized
+  - mkdocs-video
 
 markdown_extensions:
   - admonition
@@ -158,8 +159,8 @@ nav:
       - ⭐ Engineering Showcase:
           - Overview: portfolio/engineering-showcase.md
           - 📊 Reporting Systems & QA Dashboards: portfolio/engineering-showcase/reporting-systems.md
-          # - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
-          # - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
+          - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
+          - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
           # - 📝 QA Documentation: portfolio/engineering-showcase/qa-documentation.md
           # - 📚 Wiki.js Knowledge Base: portfolio/engineering-showcase/wiki-documentation.md
           # - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
