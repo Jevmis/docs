@@ -26,13 +26,11 @@
 
 > Building reliable software through **Quality Engineering**, **Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **DevOps**.
 
-[View Portfolio](portfolio/index.md){ .md-button .md-button--primary }
-[View Resume](about/resume.md){ .md-button }
-[Contact Me](contact/index.md){ .md-button }
+[View Portfolio](portfolio/index.md){ .md-button .md-button--primary }[View Resume](about/resume.md){ .md-button }[Contact Me](contact/index.md){ .md-button }
 
 ---
 
-# ⭐ Featured Engineering Projects
+# ⭐ Engineering Portfolio
 
 > Explore engineering systems, automation frameworks, dashboards, documentation, and testing solutions I've built to improve software quality and delivery.
 
@@ -42,7 +40,7 @@
 
     ## 📊 Reporting Systems & QA Dashboards
 
-    Automated Google Sheets reporting systems providing live QA metrics, defect tracking, release readiness, stakeholder reporting, and operational analytics.
+    Designed reporting systems and automated dashboards that transformed testing data into actionable insights for QA teams, management, customer service, and executive stakeholders using Google Sheets and workflow automation.
 
     [Explore →](portfolio/engineering-showcase/reporting-systems.md)
 
@@ -62,21 +60,21 @@
 
     [Explore →](portfolio/engineering-showcase/playwright-framework.md)
 
-- :material-file-document-multiple:
+- :material-book-open-page-variant:
+
+    ## 🧠 Knowledge Management System (KMS)
+
+    Designed and administered centralized engineering knowledge bases that streamlined onboarding,        standardized QA processes, and improved collaboration through role-based documentation management.
+
+    [Explore →](portfolio/engineering-showcase/wiki-documentation.md)
+
+    - :material-file-document-multiple:
 
     ## 📝 QA Documentation Suite
 
-    Test strategies, SOPs, release documentation, templates, onboarding guides, and QA workflows.
+    Authored comprehensive QA documentation including Test Plans, Test Cases, SOPs, User Acceptance Testing (UAT) documents, Release Notes, Bug Reporting Standards, QA Workflows, and Engineering Guides used across multiple projects.
 
     [Explore →](portfolio/engineering-showcase/qa-documentation.md)
-
-- :material-book-open-page-variant:
-
-    ## 📚 Wiki.js Knowledge Base
-
-    Centralized engineering documentation, onboarding resources, QA standards, and team knowledge management.
-
-    <!-- [Explore →](portfolio/engineering-showcase/wiki-documentation.md) -->
 
 - :material-api:
 
@@ -84,13 +82,13 @@
 
     REST API validation, Postman collections, Swagger/OpenAPI documentation, authentication testing, and API automation.
 
-    <!-- [Explore →](portfolio/engineering-showcase/api-testing.md) -->
+    [Explore →](portfolio/engineering-showcase/api-testing.md)
 
 - :material-bug:
 
-    ## 🐞 Bug Reporting Standards
+    ## 🐞 Bug Reporting & Defect Management
 
-    Professional bug reports with reproducible steps, supporting evidence, severity assessment, and actionable recommendations.
+    Professional defect reporting using structured bug templates, reproducible test scenarios, supporting evidence, severity and priority assessment, lifecycle management, and actionable recommendations for development teams.
 
     <!-- [Explore →](portfolio/engineering-showcase/bug-reports.md) -->
 
@@ -118,50 +116,90 @@ My work spans enterprise applications, fintech, healthcare, and government solut
 !!! success "Professional Achievements"
 
     - 5+ Years of Software Quality Assurance Experience
-    - QA Team Leadership Experience
-    - Built reusable Cypress Automation Frameworks
-    - Designed Automated Google Sheets QA Dashboards
-    - API Testing & Automation
+    - QA Team Leadership & Mentoring
+    - Built reusable Cypress & Playwright Automation Frameworks
+    - Designed and Administered Enterprise Knowledge Management Systems (KMS)
+    - Authored Test Plans, SOPs, Onboarding Guides, Release Documentation & Engineering Standards
+    - Designed Automated QA Reporting Dashboards & Test Metrics
+    - Manual, API & SQL Testing
     - Performance Engineering using Apache JMeter
     - Security Testing using OWASP ZAP
-    - SQL Backend Validation
+    - CI/CD Testing & Release Validation
     - Agile & Scrum Delivery
-    - CI/CD Testing and Release Validation
+    - Certified Data Protection Officer (DPO)
 
 ---
 
 # 🛠️ Technical Expertise
 
-| Area | Technologies |
-|------|--------------|
-| Test Automation | Cypress, Playwright |
-| Languages | JavaScript, TypeScript, SQL |
-| API Testing | Postman, Swagger/OpenAPI |
-| Performance | Apache JMeter, Lighthouse |
-| Security | OWASP Top 10, OWASP ZAP |
-| Databases | SQL Server, PostgreSQL, MySQL |
-| DevOps | GitHub Actions, Docker |
-| Reporting | Google Sheets Automation |
-| Project Management | Jira |
-| Version Control | Git, GitHub |
-
-
-
-# 🏅 Certifications
-
-I continuously invest in professional development through certifications covering Quality Assurance, Automation Engineering, Cybersecurity, Performance Testing, DevOps, Project Management, and IT Operations.
-
-[View Certifications](certifications/index.md){ .md-button .md-button--primary }
+| Area | Technologies / Expertise |
+|------|---------------------------|
+| **Test Automation** | Cypress, Playwright |
+| **Programming** | JavaScript, TypeScript, SQL |
+| **API Testing** | Postman, Swagger / OpenAPI |
+| **Performance Engineering** | Apache JMeter, Lighthouse |
+| **Security Testing** | OWASP ZAP, OWASP Top 10 |
+| **Databases** | SQL Server, PostgreSQL, MySQL |
+| **Knowledge Management** | Wiki.js, Markdown, Enterprise Knowledge Bases (KMS) |
+| **QA Documentation** | Test Plans, Test Cases, SOPs, BRDs, User Guides, UAT Documents, Release Notes |
+| **Reporting & Metrics** | Google Sheets Automation, QA Dashboards, Test Metrics |
+| **Project Management** | Jira, Agile, Scrum |
+| **DevOps** | GitHub Actions, Docker |
+| **Version Control** | Git, GitHub |
 
 ---
 
+# 🏅 Professional Certifications
+
+Continuous learning has been a core part of my professional journey.
+
+I have earned certifications across multiple technical domains, including:
+
+- Software Quality Assurance
+- Test Automation Engineering
+- JavaScript Development
+- API Testing
+- Performance Engineering
+- Cybersecurity
+- Data Protection & Privacy
+- Data Analytics
+- DevOps & Infrastructure
+- IT Operations
+- Project Management
+- Operations Management & Process Improvement
+
+With **90+ professional certifications** from organizations including **Google, Mozilla, LinkedIn Learning, IBM, EC-Council, Coursera, Atlassian, BlazeMeter, Jack Welch Management Institute**, and others, I continuously invest in expanding my technical expertise and staying current with industry best practices.
+
+[View All Certifications](certifications/index.md){ .md-button .md-button--primary }
+
+---
+# 🏗️ Engineering Principles
+
+Quality is not a phase at the end of development, it's an engineering discipline embedded throughout the entire software delivery lifecycle.
+
+Over the years, I've built my approach around principles that promote scalable, maintainable, and reliable software systems while enabling teams to deliver with confidence.
+
+## Core Principles
+
+- 📚 **Documentation First** – Create clear, accessible documentation that reduces knowledge silos and accelerates onboarding.
+- 🤖 **Purposeful Automation** – Automate repetitive, high-value tasks to improve efficiency, consistency, and release confidence.
+- 📊 **Metrics-Driven Decisions** – Use meaningful QA metrics and reporting dashboards to support informed decision-making.
+- 🔍 **Risk-Based Testing** – Prioritize testing efforts based on business impact, technical complexity, and potential risk.
+- 🤝 **Cross-Functional Collaboration** – Partner closely with Product, Development, Customer Support, and other stakeholders to build quality into every stage of delivery.
+- 🔄 **Continuous Improvement** – Continuously refine QA processes, automation frameworks, and documentation to improve team effectiveness.
+- 🛡️ **Quality Beyond Functionality** – Treat security, performance, reliability, accessibility, and usability as essential aspects of software quality.
+
+!!! quote "Engineering Philosophy"
+
+    These principles have shaped every automation framework, Knowledge Management System (KMS), QA documentation standard, reporting dashboard, and engineering process showcased throughout this portfolio.
+
+---
+
+
 # 🤝 Let's Connect
 
-[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }
-[:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary }
+[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/michaeljndueso){ .md-button }  [:fontawesome-brands-upwork:work](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share){ .md-button .md-button--primary } [:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button } [:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 <!-- [:fontawesome-brands-x-twitter:](https://x.com/jevmis){ .md-button } -->
-[:material-email-outline: Email](mailto:Michaeljndueso@outlook.com){ .md-button }
-[:fontawesome-brands-github: GitHub](https://github.com/Jevmis){ .md-button }
 
 
 ---

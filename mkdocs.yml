@@ -162,8 +162,8 @@ nav:
           - 🤖 Cypress Framework: portfolio/engineering-showcase/cypress-framework.md
           - 🎭 Playwright Framework: portfolio/engineering-showcase/playwright-framework.md
           - 📝 QA Documentation: portfolio/engineering-showcase/qa-documentation.md
-          # - 📚 Wiki.js Knowledge Base: portfolio/engineering-showcase/wiki-documentation.md
-          # - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
+          - 🧠 Knowledge Management System (KMS): portfolio/engineering-showcase/wiki-documentation.md
+          - 🔌 API Testing: portfolio/engineering-showcase/api-testing.md
           # - 🐞 Bug Reporting Standards: portfolio/engineering-showcase/bug-reports.md
           # - ⚡ Performance Engineering: portfolio/engineering-showcase/jmeter.md
 
