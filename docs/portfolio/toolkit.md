@@ -167,8 +167,7 @@ Reporting
 # 📋 Test Management
 
 - Jira
-- TestRail
-- Azure DevOps (Basic)
+- Click-Up
 - Google Workspace
 
 ---
