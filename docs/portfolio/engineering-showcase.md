@@ -10,7 +10,7 @@ Quality Assurance is more than executing test cases.
 
 Throughout my career, I've focused on building practical engineering solutions that improve how teams test, document, monitor, and deliver software.
 
-Every solution featured here was created to solve a real engineering challenge from automation frameworks and reporting dashboards to documentation systems and quality processes that improve team efficiency and software delivery.
+Every solution featured here was created to solve a real engineering challenge, from automation frameworks and reporting dashboards to documentation systems, security validation, and quality processes that improve team efficiency and software delivery.
 
 ---
 
@@ -169,28 +169,25 @@ Technologies include:
 
 ---
 
-# Engineering Impact
-
-Across these projects, my goal has been to build solutions that:
-
-- Reduce repetitive manual work through automation
-- Improve software quality and release confidence
-- Standardize QA processes and documentation
-- Increase visibility through reporting dashboards
-- Accelerate onboarding and knowledge sharing
-- Enable scalable, maintainable engineering practices
-
 ---
 
-# Why These Solutions Matter
+# Engineering Impact
 
-Every solution showcased here was created to solve a real engineering challenge.
+The solutions showcased throughout this portfolio were designed to solve practical engineering challenges encountered in real software projects.
 
-Some reduced manual work.
+Collectively, they have helped teams:
 
-Others improved documentation, strengthened automation, enhanced reporting, or increased confidence during software releases.
+- Reduce repetitive manual work through automation
+- Improve release confidence with structured testing
+- Standardize QA processes and documentation
+- Increase visibility through real-time reporting dashboards
+- Accelerate onboarding and knowledge sharing
+- Build scalable, maintainable engineering practices
+- Deliver higher-quality software more consistently
 
-Together, they demonstrate my approach to Quality Engineering, building practical systems that help teams deliver reliable software with confidence.
+While the technologies vary from automation frameworks and API testing to documentation systems, dashboards, performance testing, and CI/CD the objective remains the same:
+
+**Build engineering solutions that enable teams to deliver reliable software with confidence.**
 
 ---
 

@@ -1,145 +1,208 @@
-# Featured Projects
+# Featured Engineering Projects
 
-> A curated collection of engineering solutions, automation frameworks, QA systems, and documentation that demonstrate my approach to building quality into software delivery.
+> A curated collection of engineering solutions, automation frameworks, QA systems, reporting platforms, and documentation designed to improve software quality, streamline engineering workflows, and increase delivery confidence.
 
 ---
 
 # Overview
 
-These projects represent practical work completed throughout my Quality Assurance career.
+This collection showcases some of the engineering solutions I've designed to improve software quality, streamline testing workflows, and support reliable software delivery.
 
-Rather than simply listing technologies, each project highlights a real solution designed to improve software quality, engineering efficiency, team collaboration, or delivery confidence.
+Each project reflects a practical challenge encountered in real-world environments, from automation and reporting to documentation, performance engineering, and CI/CD integration and demonstrates how thoughtful engineering can improve both product quality and team efficiency.
 
 ---
 
-# Google Sheets QA Dashboard
+!!! success "Featured Engineering Projects"
 
-## Overview
+```
+📊 QA Reporting Dashboard
 
-An automated reporting dashboard developed using Google Sheets to provide real-time visibility into QA activities.
+🤖 Cypress Automation Framework
 
-### Highlights
+🎭 Playwright Automation Framework
 
-- Live Test Execution Tracking
-- Pass / Fail Metrics
-- Bug Status Monitoring
-- Test Coverage
-- Release Readiness
-- Interactive Charts
+📝 QA Documentation Suite
+
+🧠 Wiki.js Knowledge Base
+
+🔌 API Testing
+
+⚡ Performance Engineering
+
+🛡️ Security Testing
+
+🚀 CI/CD Integration
+```
+
+---
+
+# 📊 Google Sheets QA Reporting Dashboard
+
+Designed and built an automated QA reporting system that transformed raw testing data into real-time dashboards for QA teams, management, customer support, and executive stakeholders.
+
+### Key Features
+
+* Live Test Execution Tracking
+* Pass / Fail Metrics
+* Defect Trends
+* Release Readiness
+* Test Coverage Reporting
+* Interactive Charts
+* QA KPIs
+* Automated Status Reporting
 
 ### Technologies
 
-- Google Sheets
-- Formulas
-- Conditional Formatting
-- Charts
+* Google Sheets
+* Advanced Formulas
+* Conditional Formatting
+* Charts
+* Workflow Automation
+
+➡️ **Explore:** [Reporting Systems & QA Dashboards](engineering-showcase/reporting-systems.md)
 
 ---
 
-# QA Documentation Suite
+# 📝 QA Documentation Suite
 
-A complete documentation ecosystem covering:
+Designed a comprehensive documentation ecosystem that standardized QA processes, improved onboarding, and increased consistency across software delivery.
 
-- Test Plans
-- Test Strategy
-- Test Cases
-- SOPs
-- Release Logs
-- UAT Sign-off
-- QA Workflows
+### Deliverables
 
----
+* Test Plans
+* Test Strategy Documents
+* Test Cases
+* Standard Operating Procedures (SOPs)
+* Release Logs
+* UAT Sign-off Documents
+* QA Workflows
+* Engineering Standards
 
-# Cypress Automation Framework
-
-Reusable automation framework designed for scalable UI and API testing.
-
-Highlights include:
-
-- Page Object Model
-- Custom Commands
-- Fixtures
-- Reporting
-- API Testing
-- CI/CD Integration
+➡️ **Explore:** [QA Documentation Suite](engineering-showcase/qa-documentation.md)
 
 ---
 
-# Playwright Automation Framework
+# 🤖 Cypress Automation Framework
 
-Modern cross-browser automation framework supporting Chromium, Firefox, and WebKit.
+Designed a scalable Cypress automation framework that reduced repetitive manual testing while improving regression coverage and long-term maintainability.
 
-Features include:
+### Key Features
 
-- Parallel Execution
-- Fixtures
-- Page Objects
-- Reporting
-- API Testing
+* Page Object Model (POM)
+* Custom Commands
+* Fixtures
+* Reusable Utilities
+* API Automation
+* Reporting
+* CI/CD Integration
 
----
-
-# API Testing Suite
-
-Comprehensive API validation using:
-
-- Postman
-- Swagger
-- REST APIs
-- Newman
-- Automated Assertions
+➡️ **Explore:** [Cypress Automation Framework](engineering-showcase/cypress-framework.md)
 
 ---
 
-# Performance Engineering
+# 🎭 Playwright Automation Framework
 
-Performance testing projects developed using Apache JMeter.
+Built a modern cross-browser automation framework using Playwright to support reliable testing across Chromium, Firefox, and WebKit.
 
-Including:
+### Key Features
 
-- Load Testing
-- Stress Testing
-- Endurance Testing
-- Bottleneck Analysis
+* Cross-browser Testing
+* Parallel Execution
+* Fixtures
+* Page Object Model
+* API Testing
+* HTML Reporting
 
----
-
-# Security Testing
-
-Security validation following OWASP best practices.
-
-Examples include:
-
-- OWASP ZAP
-- Input Validation
-- Authentication Testing
-- Vulnerability Assessment
+➡️ **Explore:** [Playwright Automation Framework](engineering-showcase/playwright-framework.md)
 
 ---
 
-# SQL Validation
+# 🔌 API Testing Suite
 
-Database validation ensuring application data integrity.
+Designed API testing workflows that validated backend services through functional, authentication, contract, and regression testing.
 
-Typical activities include:
+### Technologies
 
-- Backend Verification
-- Stored Procedure Validation
-- Data Integrity Checks
-- SQL Queries
+* Postman
+* Swagger / OpenAPI
+* REST APIs
+* Newman
+* Automated Assertions
 
----
-
-# GitHub Actions CI/CD
-
-Continuous Integration workflows supporting automated testing and documentation deployment.
+➡️ **Explore:** [API Testing](engineering-showcase/api-testing.md)
 
 ---
 
-# What's Next?
+# ⚡ Performance Engineering
 
-Many of these projects are explored in greater detail throughout this documentation, including architecture, implementation, screenshots, lessons learned, and business impact.
+Performed performance engineering activities to evaluate system scalability, identify bottlenecks, and support release readiness under varying workloads.
+
+### Capabilities
+
+* Load Testing
+* Stress Testing
+* Endurance Testing
+* Bottleneck Analysis
+* Performance Reporting
+
+➡️ **Explore:** [Performance Engineering](engineering-showcase/jmeter.md)
 
 ---
 
-> **"Every project represents an opportunity to improve quality, simplify processes, and help teams deliver software with confidence."**
+# 🛡️ Security Testing
+
+Conducted baseline web application security assessments using OWASP ZAP to identify common vulnerabilities and validate security controls.
+
+### Areas Covered
+
+* OWASP ZAP
+* OWASP Top 10 Validation
+* Authentication Testing
+* Authorization Validation
+* Input Validation
+
+➡️ **Explore:** [Security Testing](engineering-showcase/security-testing.md)
+
+---
+
+# 🗄️ SQL Validation
+
+Performed backend validation to verify data integrity, business rules, and database consistency throughout the software development lifecycle.
+
+### Activities
+
+* Backend Verification
+* Data Integrity Checks
+* SQL Queries
+* Stored Procedure Validation
+* Database Validation
+
+➡️ **Explore:** [SQL Validation](engineering-showcase/sql-validation.md)
+
+---
+
+# 🚀 GitHub Actions CI/CD
+
+Designed CI/CD workflows that integrated automated testing into the software delivery pipeline, improving release confidence and reducing manual validation.
+
+### Highlights
+
+* GitHub Actions
+* Continuous Integration
+* Automated Test Execution
+* Release Validation
+* Deployment Support
+
+➡️ **Explore:** [CI/CD & DevOps](engineering-showcase/ci-cd.md)
+
+---
+
+# Explore the Engineering Showcase
+
+Each featured project has a dedicated page containing additional details, implementation approaches, technologies used, engineering decisions, screenshots, and lessons learned.
+
+Continue exploring to see how these solutions contributed to improving software quality, engineering efficiency, team productivity, and delivery confidence.
+
+---
+
+> **"Every project represents an opportunity to improve quality, simplify engineering processes, and help teams deliver reliable software with confidence."**

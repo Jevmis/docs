@@ -1,6 +1,6 @@
-# 🧰 QA Engineering Toolkit
+# 🧰 Quality Engineering Toolkit
 
-> A consolidated overview of the technologies, platforms, frameworks, and engineering tools I use throughout the software quality lifecycle.
+> A curated collection of the technologies, frameworks, platforms, and engineering tools I use to design, test, automate, monitor, and continuously improve software quality throughout the software development lifecycle.
 
 ---
 
@@ -8,9 +8,9 @@
 
     **Automation:** Cypress • Playwright
 
-    **Languages:** JavaScript • TypeScript • SQL
-
     **API:** Postman • Swagger / OpenAPI
+
+    **Languages:** JavaScript • TypeScript • SQL
 
     **Performance:** Apache JMeter
 
@@ -36,7 +36,7 @@ Documentation
 Test Design
       │
       ▼
-Automation
+Automation & Validation
       │
       ▼
 API Validation
@@ -66,6 +66,7 @@ Reporting
 | TypeScript | Strongly Typed Automation |
 | Node.js | Automation Runtime |
 | npm | Dependency Management |
+| GitHub Actions | Automation Execution |
 
 ---
 
@@ -76,7 +77,7 @@ Reporting
 | Postman | Manual API Testing |
 | Swagger / OpenAPI | API Documentation |
 | Cypress | API Automation |
-| SQL | Backend Validation |
+| SQL | Database & Backend Validation |
 
 ---
 
@@ -85,7 +86,7 @@ Reporting
 | Tool | Purpose |
 |------|---------|
 | Apache JMeter | Load Testing |
-| BlazeMeter | Performance Learning |
+| BlazeMeter | Performance Testing Ecosystem |
 | HTML Dashboard | Performance Reporting |
 | Lighthouse | Frontend Performance Analysis |
 
@@ -110,6 +111,7 @@ Reporting
 | Wiki.js | Knowledge Management |
 | Markdown | Documentation Authoring |
 | Microsoft Word | QA Documentation |
+| Google Docs | Collaborative Documentation |
 
 ---
 
@@ -119,11 +121,11 @@ Reporting
 |------|---------|
 | Google Sheets | Live QA Dashboards |
 | Jira | Defect Tracking |
-| Excel | Test Metrics |
 | Mochawesome | Cypress Reports |
 | Playwright HTML Report | Automation Reports |
 | JMeter HTML Dashboard | Performance Reports |
 | OWASP ZAP HTML Report | Security Reports |
+| Excel | Test Metrics |
 
 ---
 
@@ -157,14 +159,17 @@ Reporting
 
 # 🌍 Browsers
 
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
-- Safari
+| Browser | Purpose               |
+| ------- | --------------------- |
+| Chrome  | Primary Testing       |
+| Edge    | Chromium Validation   |
+| Firefox | Cross-browser Testing |
+| Safari  | WebKit Validation     |
+
 
 ---
 
-# 📋 Test Management
+# 📋 Project & Test Management
 
 - Jira
 - Click-Up
@@ -174,40 +179,43 @@ Reporting
 
 # 💼 Core Skills
 
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Integration Testing
-- API Testing
+Testing
+- Functional
+- Regression
+- Smoke
+- Integration
+- UAT
+- Exploratory
+Automation
 - UI Automation
-- Performance Testing
-- Security Testing
-- SQL Validation
-- Test Planning
-- Test Strategy
-- Defect Management
+- API Automation
+- Framework Design
+Engineering
 - Documentation
+- CI/CD
+- Reporting
 - Risk-based Testing
-- CI/CD Integration
-- Quality Metrics
-
+- Release Validation
 ---
 
 # 💡 Engineering Philosophy
 
-Quality is achieved through a combination of engineering discipline, automation, measurable processes, documentation, and continuous improvement, not by testing alone.
+Quality is engineered, not inspected through a combination of structured processes, purposeful automation, meaningful metrics, clear documentation, and continuous improvement.
 
-This toolkit represents the technologies and practices I use to build quality into every stage of the software delivery lifecycle.
+The technologies in this toolkit represent the engineering ecosystem I use to help teams build, validate, and deliver reliable software with confidence.
 
 ---
 
-## Related Portfolio Sections
+## Related Engineering Projects
 
-- 🤖 [Cypress Automation Framework](engineering-showcase/cypress-framework.md)
-- 🎭 [Playwright Automation Framework](engineering-showcase/playwright-framework.md)
-- 🔌 [API Testing](engineering-showcase/api-testing.md)
-- 🛡️ [OWASP ZAP Security Testing](engineering-showcase/zap.md)
-- ⚡ [Performance Engineering](engineering-showcase/jmeter.md)
-- 🚀 [CI/CD & DevOps](engineering-showcase/ci-cd.md)
-- 📊 [Reporting Systems & QA Dashboards](engineering-showcase/reporting-systems.md)
-- 📝 [QA Documentation Suite](engineering-showcase/qa-documentation.md)
+# 🎯 Primary Areas of Focus
+
+While I'm familiar with a broad range of technologies, my strongest engineering expertise is centered around:
+
+- 🤖 Test Automation (Cypress & Playwright)
+- 📊 QA Reporting Systems
+- 🔌 API Testing
+- 📝 QA Documentation
+- 📚 Knowledge Management (Wiki.js)
+- ⚡ Performance Engineering
+- 🚀 CI/CD Integration

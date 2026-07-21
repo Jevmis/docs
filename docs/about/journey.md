@@ -14,6 +14,24 @@ Today, I approach Quality Engineering as a combination of technical excellence, 
 
 ---
 
+!!! success "Career Timeline"
+
+    🎓 Computer Engineering
+
+    → 🔍 Manual Software Testing
+
+    → 🤖 Test Automation
+
+    → 👥 QA Team Leadership
+
+    → 🏗️ Quality Engineering
+
+    → 🚀 Continuous Learning & Engineering Excellence
+
+    
+---
+
+
 # Where It All Began
 
 My journey into technology started with a strong interest in solving problems and understanding how software works behind the scenes.

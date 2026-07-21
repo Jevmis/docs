@@ -6,17 +6,29 @@
 
 # Overview
 
-One of my favourite engineering projects is designing automated QA dashboards.
+One of the most impactful engineering solutions I've built is a collection of automated reporting systems and QA dashboards designed to replace manual reporting with real-time operational insights.
 
-Rather than relying on manually updated spreadsheets, I build reporting systems that automatically collect, process, and visualize quality metrics in real time.
+These dashboards reduce reporting effort, improve collaboration, and provide stakeholders with immediate visibility into testing progress, operational performance, and release readiness.
 
 These dashboards reduce reporting effort, improve collaboration, and provide stakeholders with instant visibility into testing progress, operational performance, and release readiness.
+
+---
+
+!!! success "Engineering Snapshot"
+
+    - **5 Reporting Systems** engineered using Google Sheets
+    - **Real-time QA Metrics & KPI Dashboards**
+    - **Automated Operational Reporting**
+    - **Cross-sheet Data Integration**
+    - **Formula-driven Process Automation**
+    - **Executive Reporting & Visualization**
 
 ---
 
 ## 🖼️ Dashboard Gallery
 
 Explore a selection of the reporting systems and quality dashboards I've engineered. Each dashboard was designed to solve a specific operational or quality assurance challenge through automation, live reporting, and clear data visualization.
+
 
 <div class="grid cards" markdown>
 
@@ -25,6 +37,14 @@ Explore a selection of the reporting systems and quality dashboards I've enginee
     **Customer Support & Agent Performance**
 
     Live analytics dashboard for monitoring support operations, ticket trends, and agent productivity.
+    
+
+- ![Issue Categorization & Ticket Trends](../../assets/images/engineering-showcase/qa-dashboard/top_tickets_trend.png)
+
+    **Top Issue Categorization & Ticket Trend**
+
+    This report identifies the most frequently reported customer issues over time, helping engineering and product teams prioritize fixes based on real customer demand rather than assumptions.
+
 
 - ![Security Dashboard](../../assets/images/engineering-showcase/qa-dashboard/security-dashboard.png)
 
@@ -111,6 +131,8 @@ A live operational dashboard engineered to monitor helpdesk efficiency, categori
 
 It provides real-time visibility into individual agent productivity alongside historical ticket volumes aggregated across Daily, Weekly, Monthly, Yearly, and All-Time reporting periods to identify performance trends and operational bottlenecks.
 
+One of its key capabilities is analyzing ticket categories to identify the most frequently reported issues. This enables engineering and product teams to quickly recognize recurring problems, prioritize high-impact defects, and focus development efforts on issues affecting the greatest number of users.
+
 ### ⚙️ Engineering Techniques
 
 The dashboard automatically synchronizes data from multiple Google Sheets and generates live operational reports using advanced spreadsheet engineering techniques.
@@ -123,15 +145,33 @@ The dashboard automatically synchronizes data from multiple Google Sheets and ge
 - `SUMIFS`
 - `IFERROR`
 
+### ✨ Key Insights Delivered
+
+- Live agent productivity monitoring
+- Ticket volume trends across multiple time periods
+- Top issue categorization and recurring problem analysis
+- SLA and operational performance visibility
+- Data-driven prioritization of production fixes
+- Executive reporting through interactive dashboards
+
 ### 📸 Dashboard Preview
+
+#### Overall Customer Support Dashboard
 
 ![Customer Support Dashboard](../../assets/images/engineering-showcase/qa-dashboard/customer-support-dashboard.png){ loading=lazy }
 
+#### Top Issue Categorization & Ticket Trends
+
+![Issue Categorization & Ticket Trends](../../assets/images/engineering-showcase/qa-dashboard/top_tickets_trend.png){ loading=lazy }
+
+> This visualization helps engineering and product teams identify the most frequently reported issues, prioritize high-impact fixes, and make informed decisions about production improvements based on real user data.
+
 > **Live demonstration available during interviews or upon request.**
+
 
 ---
 
-# 🔐 Security Controls & Compliance Dashboard
+# 🔐 Security Controls & Compliance
 
 ### 📊 System Overview
 
@@ -160,7 +200,7 @@ A centralized testing repository combining test planning, execution tracking, an
 
 It provides QA teams with a complete view of testing progress, release readiness, software quality metrics, and testing coverage throughout the software development lifecycle.
 
-### ⚙️ Engineering Techniques
+### ⚙️ Technologies Used
 
 - `COUNTIFS`
 - `COUNTA`
@@ -182,7 +222,7 @@ A live defect analytics dashboard engineered to monitor software quality by trac
 
 The dashboard provides engineering teams with actionable quality insights that support release planning and continuous improvement.
 
-### ⚙️ Engineering Techniques
+### ⚙️ Technologies Used
 
 - `COUNTIFS`
 - `COUNTA`
@@ -204,7 +244,7 @@ A quality metrics dashboard designed for engineering teams and product stakehold
 
 It measures automation maturity across projects by comparing automated test coverage against manual testing efforts while reporting automation stability, regression coverage, release confidence, and overall automation progress.
 
-### ⚙️ Engineering Techniques
+### ⚙️ Technologies Used
 
 - `COUNTIFS`
 - `SUM`
@@ -218,24 +258,28 @@ It measures automation maturity across projects by comparing automated test cove
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Engineering Stack
 
 These dashboards were engineered using the capabilities of Google Sheets to build scalable reporting systems rather than simple spreadsheets.
 
 Technologies and techniques include:
 
-- Google Sheets
-- Advanced Spreadsheet Engineering
-- Formula Engineering
-- Cross-sheet Data Integration
+Reporting
 - Dashboard Design
-- Conditional Formatting
-- Interactive Charts
-- Data Validation
 - KPI Reporting
+- Data Visualization
+Automation
+- Formula Engineering
+- Spreadsheet Automation
 - Process Automation
-- Real-time Metrics
+Quality Engineering
+- QA Metrics
+- Defect Tracking
+- Test Management
+Collaboration
+- Stakeholder Reporting
 - Operational Reporting
+- Business Process Improvement
 
 ---
 
@@ -265,7 +309,7 @@ Throughout these engineering projects, I applied:
 
 # 📈 Business Impact
 
-These dashboards significantly reduced manual reporting while improving visibility into software quality, operational performance, and project health.
+These reporting systems reduced manual reporting effort by automating repetitive calculations, centralizing project data, and presenting real-time engineering metrics through interactive dashboards. They enabled QA teams, engineering managers, and stakeholders to monitor project health, identify bottlenecks earlier, and make faster, data-driven decisions throughout the software development lifecycle.
 
 By automating calculations and presenting live engineering metrics, stakeholders could monitor progress instantly, identify bottlenecks earlier, and make faster, data-driven decisions throughout the software development lifecycle.
 
@@ -279,7 +323,16 @@ These dashboards continue to evolve as new reporting requirements emerge.
 
 I regularly refine calculations, improve automation workflows, simplify reporting experiences, and expand dashboard capabilities to ensure stakeholders always have accurate, actionable insights.
 
-The objective is not simply to report data,but to build reporting systems that make software delivery more efficient and informed.
+My objective isn't simply to report data, it's to engineer reporting systems that transform raw operational information into actionable insights that improve software delivery.  
+
+---
+
+## Related Engineering Projects
+
+- [QA Documentation Suite](qa-documentation.md)
+- [Automation Frameworks](cypress-framework.md)
+- [API Testing](api-testing.md)
+- [Performance Engineering](jmeter.md)
 
 ---
 
