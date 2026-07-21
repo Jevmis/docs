@@ -89,8 +89,8 @@ This repository showcases my experience as a **Quality Assurance Engineer (QA)**
 Clone the repository:
 
 ```bash
-git clone https://github.com/Jevmis/docs.git
-cd docs
+git clone https://github.com/Jevmis/qa-engineering-portfolio.git
+cd qa-engineering-portfolio
 ```
 
 Install dependencies:

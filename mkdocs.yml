@@ -3,8 +3,8 @@ site_description: Quality Assurance Engineer | SDET | Test Automation | API Test
 site_author: Michael J. Ndueso
 site_url: https://michaeljndueso.is-a.dev
 
-repo_url: https://github.com/Jevmis/docs
-repo_name: Jevmis/docs
+repo_url: https://github.com/Jevmis/qa-engineering-portfolio
+repo_name: Jevmis/qa-engineering-portfolio
 edit_uri: edit/main/docs/
 
 copyright: Copyright © 2026 Michael J. Ndueso
