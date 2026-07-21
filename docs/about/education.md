@@ -6,9 +6,23 @@
 
 # Overview
 
-My educational journey combines formal engineering education with continuous professional development in Software Quality Assurance, Test Automation, Performance Engineering, Security Testing, DevOps, and modern software development practices.
+My educational background combines formal engineering education with a strong commitment to continuous professional development.
 
-I strongly believe that learning never stops. Technology evolves rapidly, and remaining effective as a Quality Engineer requires continuous improvement and curiosity.
+While my foundation in Computer Engineering provided a solid understanding of software systems, networking, databases, and system design, I have continued to expand my expertise through professional certifications, hands-on projects, and practical experience in Quality Engineering.
+
+This combination of academic knowledge and real-world application has shaped my approach to building reliable, maintainable, and high-quality software.
+
+---
+
+!!! success "Education Snapshot"
+
+    🎓 **Bachelor of Engineering (Computer Engineering)**
+
+    📜 **90+ Professional Certifications**
+
+    💻 Continuous learning across Automation, Performance, Security, DevOps, AI, and Quality Engineering
+
+    🚀 Strong focus on practical, project-based learning
 
 ---
 
@@ -31,49 +45,45 @@ My academic background in Computer Engineering provided a strong understanding o
 - System Design
 - Algorithms and Data Structures
 
-This foundation has helped me understand software beyond testing, enabling me to communicate effectively with developers, architects, business analysts, and stakeholders.
+This engineering foundation enables me to approach software quality with a broader perspective—understanding not only how applications should be tested, but also how they are designed, built, deployed, and maintained. It also allows me to collaborate effectively with developers, architects, business analysts, and other stakeholders throughout the software development lifecycle.
 
 ---
 
 # Professional Development
 
-Alongside formal education, I have invested heavily in professional learning through industry-recognized certifications and practical projects.
+Beyond formal education, I have invested extensively in professional development through industry-recognized certifications, technical courses, and practical engineering projects.
 
 Areas of continuous study include:
 
-- Quality Assurance
-- Software Testing
+- Software Quality Assurance
 - Test Automation
 - API Testing
 - Performance Engineering
 - Security Testing
-- DevOps
-- Agile Methodologies
+- DevOps & CI/CD
+- Agile Delivery
 - Project Management
-- Operations Management
-- IT Service Management
+- Data Protection & Privacy
+- IT Operations
 
 ---
 
 # Continuous Learning Philosophy
 
-Technology changes constantly.
+Technology evolves rapidly, and I believe continuous learning is essential to remaining an effective Quality Engineer.
 
-Rather than relying solely on past experience, I dedicate time to learning new tools, frameworks, and engineering practices.
-
-My learning approach includes:
+My learning approach combines formal training with practical application through:
 
 - Professional Certifications
 - Technical Documentation
-- Hands-on Projects
+- Hands-on Engineering Projects
 - Community Learning
-- Industry Best Practices
 - Official Product Documentation
-- Experimentation through Personal Projects
+- Continuous Experimentation
 
 ---
 
-# Areas of Ongoing Learning
+# Current Learning Focus
 
 I continuously expand my expertise in:
 
@@ -87,13 +97,21 @@ I continuously expand my expertise in:
 
 ---
 
-## Performance Engineering
+# Practical Learning
 
-- Apache JMeter
-- Performance Analysis
-- Load Testing
-- Stress Testing
-- Scalability Testing
+I learn best by building.
+
+Rather than stopping at theory, I regularly apply new concepts through practical engineering projects that solve real-world quality challenges.
+
+Recent areas include:
+
+- Automation Frameworks
+- API Testing Projects
+- QA Documentation Systems
+- Google Sheets QA Dashboards
+- Performance Testing
+- CI/CD Workflows
+- Knowledge Management Systems
 
 ---
 
@@ -147,38 +165,40 @@ These projects reinforce theoretical knowledge with real-world application.
 
 ---
 
-# Certifications
+# Professional Certifications
 
-Beyond formal education, I have completed numerous professional certifications covering Quality Assurance, Automation Engineering, Cybersecurity, Operations Management, and related technologies.
+Continuous learning has resulted in **90+ professional certifications** spanning Software Quality Assurance, Test Automation, JavaScript, API Testing, Cybersecurity, Performance Engineering, DevOps, Data Analytics, Project Management, and Operations Management.
 
-These certifications demonstrate my commitment to lifelong learning and continuous professional growth.
+These certifications complement my practical experience and reflect my commitment to continuous professional growth.
 
-➡️ Explore my certifications here:
-
-[Professional Certifications](../certifications/professional.md){ .md-button .md-button--primary }
+[Explore Professional Certifications](../certifications/index.md){ .md-button .md-button--primary }
 
 ---
 
 # Looking Ahead
 
-My long-term goal is to continue growing as a Quality Engineering professional by deepening my expertise in:
+As Quality Engineering continues to evolve, I remain committed to expanding my expertise in areas that improve software reliability, engineering efficiency, and modern software delivery.
+
+My current areas of focus include:
 
 - Advanced Test Automation
+- AI-assisted Testing
 - Performance Engineering
 - Security Engineering
-- AI-powered Software Testing
-- DevOps
-- Cloud Technologies
+- DevOps & Cloud Technologies
 - Software Architecture
 - Engineering Leadership
 
-I believe that investing in continuous education enables me to deliver greater value to every project and team I work with.
+My goal is to continue building engineering solutions that help teams deliver reliable software with greater speed, confidence, and quality.
 
 ---
 
 ## Continue Exploring
 
-- [Technical Skills](skills.md)
+Learn more about my professional background and engineering work:
+
+- [About Me](index.md)
 - [Professional Experience](experience.md)
+- [Technical Skills](skills.md)
 - [Career Journey](journey.md)
-- [Certifications](../certifications/index.md)
+- [Professional Certifications](../certifications/index.md)

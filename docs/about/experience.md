@@ -6,29 +6,29 @@
 
 # Overview
 
-Over the past five years, I have worked as a Quality Assurance Engineer across public-sector and private-sector software projects, helping teams deliver reliable, secure, and high-quality applications.
+Over the past **5+ years**, I've contributed to software quality across government, enterprise, fintech, and internal business platforms, helping teams deliver secure, scalable, and reliable applications.
 
-My experience spans the complete software testing lifecycle, from requirement analysis and test planning to automation, performance validation, release testing, and production verification.
+My experience spans the entire Software Development Lifecycle (SDLC), from requirement analysis and test planning to automation, API validation, performance testing, release readiness, and production verification.
 
-I have also led QA teams, introduced testing standards, improved documentation, and built reusable automation frameworks that increased testing efficiency and software quality.
+Beyond testing, I've introduced QA standards, built reusable automation frameworks, designed engineering documentation, implemented reporting systems, and mentored QA engineers to improve team efficiency and software quality.
 
 ---
 
 # Industries
 
-Throughout my career, I have contributed to projects serving multiple industries, including:
+I've contributed to software projects across multiple industries where reliability, compliance, and software quality are essential:
 
-- Government & Public Sector
-- Enterprise Software
-- Business Registry Systems
-- Tax & Revenue Platforms
-- Internal Business Applications
-- Web Applications
-- Process Automation Solutions
+- 🏛️ Government & Public Sector
+- 💼 Enterprise Software
+- 📑 Business Registry Systems
+- 💰 Revenue & Tax Platforms
+- 🏢 Internal Business Applications
+- 🌐 Web Applications
+- ⚙️ Process Automation Solutions
 
 ---
 
-# Areas of Responsibility
+# Engineering Expertise
 
 My day-to-day responsibilities have included:
 
@@ -44,33 +44,37 @@ My day-to-day responsibilities have included:
 
 ---
 
-## Test Planning
+## Test Strategy & Planning
 
-I actively participate in planning software quality by:
+I contribute to quality from the earliest stages of software development by:
 
-- Reviewing Business Requirements
-- Identifying testing scope
-- Creating Test Plans
-- Designing Test Cases
-- Preparing Release Checklists
+- Reviewing business requirements
+- Identifying testing scope and risks
+- Designing test strategies
+- Creating comprehensive Test Plans
+- Developing reusable Test Cases
+- Preparing release readiness checklists
 - Estimating testing effort
 
 ---
 
 ## Test Automation
 
-I build and maintain reusable automation frameworks using:
+I design and maintain scalable automation frameworks that improve regression coverage, reduce manual effort, and support continuous delivery.
+
+Technologies include:
 
 - Cypress
 - Playwright
 - JavaScript
 - TypeScript
 
-Automation responsibilities include:
+Key areas include:
 
 - UI Automation
 - API Automation
 - Regression Suites
+- Cross-browser Testing
 - CI/CD Integration
 - Framework Maintenance
 
@@ -89,7 +93,7 @@ Experience validating REST APIs through:
 
 ---
 
-## SQL Validation
+## Database Validation
 
 Backend validation responsibilities include:
 
@@ -127,17 +131,19 @@ Security-related activities include:
 
 # Leadership Experience
 
-As a QA Team Lead, I have been responsible for:
+As a QA Team Lead, I helped establish structured quality practices that improved collaboration, consistency, and release confidence across multiple projects.
 
-- Coordinating QA activities
-- Assigning testing tasks
-- Reviewing bug reports
-- Mentoring junior QA engineers
-- Defining testing processes
-- Conducting test reviews
-- Improving documentation standards
+Responsibilities included:
 
-I enjoy helping engineers grow while creating efficient testing workflows that improve overall product quality.
+- Leading QA planning and execution
+- Mentoring and supporting QA engineers
+- Assigning testing activities
+- Reviewing defect reports and test deliverables
+- Defining QA standards and workflows
+- Improving documentation quality
+- Supporting release readiness
+
+I enjoy creating environments where quality becomes a shared responsibility across engineering teams rather than the sole responsibility of QA.
 
 ---
 
@@ -154,40 +160,44 @@ A significant part of my work involves creating technical documentation, includi
 - Knowledge Base Articles
 - Wiki Documentation
 
-Good documentation helps teams remain consistent, improves onboarding, and supports long-term maintainability.
+Clear documentation reduces knowledge silos, accelerates onboarding, improves collaboration, and enables engineering teams to maintain consistent quality across projects.
 
 ---
 
-# Reporting & Metrics
+# Reporting & Engineering Metrics
 
-I believe quality should be measurable.
+One of my favourite engineering solutions has been designing automated QA reporting systems using Google Sheets.
 
-To support engineering teams and stakeholders, I have built automated reporting solutions using Google Sheets to track:
+These dashboards provide real-time visibility into software quality by tracking:
 
 - Test Execution Progress
-- Bug Status
 - Defect Trends
-- Regression Coverage
-- QA Metrics
 - Release Readiness
+- QA KPIs
+- Test Coverage
+- Regression Status
+- Team Productivity Metrics
 
-These dashboards provide real-time visibility into testing progress and improve decision-making throughout the software development lifecycle.
+By replacing manual reporting with live dashboards, stakeholders gained immediate insight into project health while QA teams spent less time preparing reports and more time testing.
 
 ---
 
-# Professional Philosophy
+# Quality Engineering Philosophy
 
-I believe Quality Assurance is more than identifying defects.
+Quality Assurance is more than identifying defects.
 
-It involves building confidence in software through structured processes, effective communication, continuous improvement, and smart automation.
+It's about building confidence in software through structured processes, thoughtful automation, measurable quality metrics, effective collaboration, and continuous improvement.
 
-My goal is always to help development teams deliver software that is reliable, maintainable, and provides an excellent user experience.
+My goal is to help engineering teams deliver software that is reliable, maintainable, secure, and provides an excellent user experience.
 
 ---
 
 ## Continue Exploring
 
+Learn more about my experience and engineering work:
+
+- [About Me](index.md)
 - [Technical Skills](skills.md)
 - [Career Journey](journey.md)
-- [Portfolio](../portfolio/index.md)
+- [Engineering Showcase](../portfolio/engineering-showcase.md)
 - [Certifications](../certifications/index.md)

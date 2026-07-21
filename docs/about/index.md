@@ -2,11 +2,11 @@
 
 ## Who I Am
 
-Welcome! I'm **Michael Jackson Ndueso**, a Senior Quality Assurance Engineer specializing in software quality, test automation, API testing, performance engineering, security testing, SQL validation, and DevOps practices.
+I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer and Test Automation Engineer with over **5 years of experience** designing quality processes, building automation frameworks, and helping engineering teams deliver reliable software.
 
-With over **5 years of professional experience**, I've helped teams deliver reliable, scalable, and high-quality software by combining structured Quality Assurance processes with modern automation frameworks and engineering best practices.
+My expertise spans Quality Engineering, Test Automation, API Testing, Performance Engineering, Security Testing, SQL Validation, QA Documentation, and CI/CD practices.
 
-My experience spans enterprise web applications, government digital transformation projects, registry systems, revenue management platforms, and internal business solutions where quality, compliance, and reliability are critical.
+I've contributed to enterprise applications, government digital transformation initiatives, registry systems, fintech platforms, and internal business solutions where reliability, scalability, and compliance are critical.
 
 ---
 
@@ -18,25 +18,25 @@ My experience spans enterprise web applications, government digital transformati
 
     ### Quality Assurance
 
-    Designing comprehensive QA strategies, executing functional testing, regression testing, exploratory testing, user acceptance testing (UAT), and release validation.
+    Designing quality strategies, executing functional, regression, exploratory, and UAT testing, while improving QA processes that increase release confidence.
 
 - :material-robot:
 
     ### Test Automation
 
-    Building scalable automation frameworks using Cypress, Playwright, JavaScript and TypeScript.
+    Designing scalable automation frameworks with Cypress and Playwright using reusable architecture, Page Object Model (POM), custom commands, fixtures, reporting, and CI/CD integration.
 
 - :material-api:
 
     ### API Testing
 
-    REST API validation using Postman, Swagger/OpenAPI, Newman, and automated API testing.
-
+    Designing and executing REST API testing strategies covering functional validation, authentication, contract verification, backend validation, and automated API regression using Postman, Swagger/OpenAPI, SQL, and Cypress.
+    
 - :material-speedometer:
 
     ### Performance Engineering
 
-    Load, stress and endurance testing using Apache JMeter with detailed performance analysis and reporting.
+    Evaluating application scalability through load, stress, and endurance testing using Apache JMeter while identifying bottlenecks and producing actionable performance reports.
 
 </div>
 
@@ -46,21 +46,18 @@ My experience spans enterprise web applications, government digital transformati
 
 My core areas of expertise include:
 
-- Software Quality Assurance
-- Test Strategy & Planning
-- Functional Testing
-- Regression Testing
-- User Acceptance Testing (UAT)
-- Exploratory Testing
+- Quality Assurance & Test Strategy
+- Manual, Functional & Regression Testing
+- Test Automation (Cypress & Playwright)
 - API Testing & Automation
-- Test Automation Framework Development
-- Performance Testing
-- Security Testing
 - SQL Backend Validation
+- Performance Engineering
+- Security Testing (OWASP ZAP)
+- QA Documentation & Knowledge Management
+- QA Reporting Dashboards & Metrics
 - CI/CD Testing
-- Google Sheets QA Dashboard Automation
-- QA Team Leadership
-- Agile & Scrum Methodologies
+- Agile & Scrum
+- QA Leadership & Mentoring
 
 ---
 
@@ -74,24 +71,13 @@ Throughout my career, I have contributed to software solutions across multiple s
 | 🏢 Private Sector | Enterprise software solutions developed for private organizations |
 | 📑 Registry Systems | Registration, records management, workflow-driven platforms |
 | 💼 Enterprise Applications | Internal business systems, approval workflows, operational platforms |
-| 💰 Revenue Management | Revenue collection, payment validation, financial workflows, reporting systems |
+| 💰 Financial & Revenue Management | Revenue collection, payment validation, financial workflows, reporting systems |
 
 ---
 
 ## What I Enjoy Working On
 
-I enjoy solving complex quality challenges across the software development lifecycle, including:
-
-- Designing test strategies
-- Building maintainable automation frameworks
-- API automation and validation
-- Performance engineering
-- Security testing
-- SQL backend validation
-- Release quality assurance
-- Test metrics and reporting automation
-- Mentoring QA engineers
-- Process improvement
+I enjoy building engineering solutions that make software teams more effective. Whether it's designing automation frameworks, improving QA workflows, creating reporting dashboards, writing reusable documentation, or strengthening release processes, I enjoy solving problems that improve both software quality and team productivity.
 
 ---
 
@@ -109,13 +95,13 @@ I enjoy solving complex quality challenges across the software development lifec
 
 Every project I work on follows a structured quality mindset:
 
-1. Understand the business requirements.
-2. Identify potential risks.
-3. Design a comprehensive testing strategy.
-4. Automate repetitive validation where appropriate.
-5. Measure quality using meaningful metrics.
-6. Collaborate closely with developers and stakeholders.
-7. Continuously improve processes based on lessons learned.
+1. Understand business objectives and product requirements.
+2. Identify quality risks early.
+3. Design a risk-based testing strategy.
+4. Automate repetitive validation where it provides long-term value.
+5. Measure quality using meaningful metrics and reporting.
+6. Collaborate closely with cross-functional teams.
+7. Continuously improve testing processes and engineering practices.
 
 ---
 
@@ -127,25 +113,25 @@ Every project I work on follows a structured quality mindset:
 
     ### Quality First
 
-    Building confidence through thorough testing and continuous improvement.
+    Building confidence through proactive quality engineering and continuous improvement.
 
 - :material-account-group:
 
     ### Collaboration
 
-    Working closely with developers, business analysts, product owners, and stakeholders.
+    Partnering with developers, product managers, business analysts, and stakeholders to deliver reliable software.
 
 - :material-lightbulb-on:
 
     ### Continuous Learning
 
-    Continuously improving my technical and leadership skills.
+    Investing continuously in modern engineering practices, tools, and professional development.
 
 - :material-chart-line:
 
     ### Process Improvement
 
-    Using automation and metrics to improve software delivery and engineering efficiency.
+    Using automation, documentation, and metrics to improve engineering efficiency and software delivery.
 
 </div>
 
@@ -153,38 +139,32 @@ Every project I work on follows a structured quality mindset:
 
 ## Explore More
 
-<div class="grid cards" markdown>
+### 📄 Resume
 
-- :material-file-document:
+View my professional experience, technical skills, and career highlights.
 
-    ### Resume
+[View Resume](resume.md)
 
-    View my professional experience, technical skills, and career achievements.
+---
 
-    [View Resume](resume.md)
+### 🏗️ Engineering Showcase
 
-- :material-briefcase:
+Explore automation frameworks, reporting dashboards, QA documentation, and engineering solutions.
 
-    ### Experience
+[Engineering Showcase](../portfolio/engineering-showcase.md)
 
-    Explore the projects, responsibilities, and software solutions I've contributed to.
+---
 
-    [Professional Experience](experience.md)
+### 🏅 Certifications
 
-- :material-school:
+Browse over 90 professional certifications across QA, automation, cybersecurity, DevOps, data analytics, and project management.
 
-    ### Education
+[View Certifications](../certifications/index.md)
 
-    Learn about my educational background and professional development.
+---
 
-    [Education](education.md)
+### 💼 Professional Experience
 
-- :material-map-marker-path:
+Explore the projects, responsibilities, and software solutions I've contributed to.
 
-    ### Career Journey
-
-    Follow my journey from manual testing to QA leadership, automation engineering, and quality strategy.
-
-    [Career Journey](journey.md)
-
-</div>
+[Professional Experience](experience.md)

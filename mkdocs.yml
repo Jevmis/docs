@@ -156,7 +156,7 @@ nav:
       - Career Journey: about/journey.md
 
   - 🚀 Engineering Portfolio:
-      - Overview: portfolio/index.md
+      # - Overview: portfolio/index.md
       - Engineering Toolkit: portfolio/toolkit.md
       # - 🧰 QA Engineering Toolkit: portfolio/toolkit.md      
       - ⭐ Engineering Showcase:

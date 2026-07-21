@@ -26,42 +26,36 @@
 
 I am a Quality Assurance Engineer with over five years of experience supporting software quality across government projects, registry platforms, and private-sector applications.
 
-My experience includes manual testing, test automation, API testing, SQL validation, performance testing, QA documentation, release validation, and process improvement.
+My experience spans manual testing, test automation, API testing, SQL validation, performance engineering, QA documentation, release validation, and continuous process improvement.
 
-I enjoy building maintainable automation frameworks, improving QA workflows, creating reusable documentation, and helping teams deliver reliable software with confidence.
+I specialize in building scalable automation frameworks, improving QA processes, creating reusable engineering documentation, and helping cross-functional teams deliver reliable software with confidence.
 
 ---
 
-# Core Competencies
+!!! success "Career Snapshot"
 
-- Quality Assurance
-- Test Automation
-- API Testing
-- Performance Testing
-- Security Testing
-- SQL Validation
-- Release Testing
-- Test Strategy
-- Defect Management
-- QA Leadership
-- Agile & Scrum
-- Technical Documentation
-
+    - **5+ Years** in Software Quality Assurance
+    - **QA Team Lead** with experience mentoring engineers and improving QA processes
+    - **90+ Professional Certifications** across 10+ technical domains
+    - Built reusable **Cypress** and **Playwright** automation frameworks
+    - Designed automated **QA Reporting Dashboards**
+    - Experienced in **API Testing**, **SQL Validation**, **Performance Engineering**, and **Security Testing**
 ---
 
 # Technical Skills
 
-| Category | Technologies |
-|-----------|--------------|
-| Automation | Cypress, Playwright |
-| Languages | JavaScript, TypeScript, SQL |
-| API | Postman, Swagger/OpenAPI |
-| Performance | Apache JMeter |
-| Security | OWASP Top 10, OWASP ZAP |
-| Databases | SQL Server, MySQL |
-| DevOps | Git, GitHub, GitHub Actions, Docker |
-| Reporting | Google Sheets Dashboards, Excel |
-| Collaboration | Jira, Wiki.js |
+| Category | Technologies / Tools |
+|-----------|----------------------|
+| **Test Automation** | Cypress, Playwright |
+| **Programming** | JavaScript, TypeScript, SQL |
+| **API Testing** | Postman, Swagger / OpenAPI |
+| **Performance Engineering** | Apache JMeter, Lighthouse |
+| **Security Testing** | OWASP ZAP, OWASP Top 10 |
+| **Databases** | SQL Server, PostgreSQL, MySQL |
+| **CI/CD & DevOps** | Git, GitHub, GitHub Actions, Docker |
+| **Reporting & Analytics** | Google Sheets Dashboards, Microsoft Excel |
+| **Documentation & Knowledge Management** | Wiki.js, Markdown, Technical Documentation |
+| **Project Management** | Jira, Agile, Scrum |
 
 ---
 
@@ -69,87 +63,79 @@ I enjoy building maintainable automation frameworks, improving QA workflows, cre
 
 ## QA Team Lead
 
-Managed QA activities across multiple software projects by:
+Led quality assurance activities across multiple enterprise applications by defining testing strategies, mentoring QA engineers, improving documentation standards, and coordinating release validation.
 
-- Leading QA planning and execution
-- Coordinating testing activities
-- Mentoring QA engineers
-- Improving testing standards
-- Designing reusable QA documentation
-- Supporting release readiness
+### Key Achievements
+
+- Built reusable automation frameworks
+
+- Designed QA reporting dashboards
+
+- Created enterprise Wiki.js knowledge base
+
+- Standardized QA documentation
+
+- Improved onboarding process
 
 ---
 
 ## Quality Assurance Engineer
 
-Responsible for:
+Performed end-to-end quality assurance activities across enterprise applications, ensuring software met functional, business, and release requirements.
+
+### Responsibilities
 
 - Functional Testing
 - Regression Testing
-- User Acceptance Testing
+- User Acceptance Testing (UAT)
 - API Testing
 - SQL Validation
-- Bug Reporting
-- Test Planning
+- Bug Reporting & Defect Management
+- Test Planning & Execution
 - Release Verification
 
 ---
 
 ## Automation Engineer
 
-Built and maintained automation solutions using:
+Designed and maintained scalable automation frameworks using modern testing tools to improve test coverage, reduce manual effort, and support continuous delivery.
+
+### Technologies
 
 - Cypress
 - Playwright
 - JavaScript
 - TypeScript
 
-Developed reusable automation frameworks and integrated automated testing into development workflows.
+### Contributions
+
+- Built reusable automation frameworks
+- Automated UI and API regression testing
+- Improved framework maintainability through reusable components
+- Supported CI/CD-ready automated testing workflows
 
 ---
 
-# Major Strengths
+## Professional Development
 
-✅ Test Automation
+I actively continue expanding my expertise in:
 
-✅ API Testing
-
-✅ Performance Testing
-
-✅ Security Testing
-
-✅ SQL Backend Validation
-
-✅ CI/CD Testing
-
-✅ Google Sheets QA Dashboards
-
-✅ Documentation
-
----
-
-# Professional Interests
-
-I continue expanding my expertise in:
-
-- Automation Architecture
-- DevOps
 - AI-assisted Testing
+- Advanced Automation Architecture
+- DevOps & CI/CD
 - Performance Engineering
 - Security Engineering
 - Software Architecture
 
 ---
 
-# Additional Information
+# Continue Exploring
 
-For more detailed information, please visit:
+Learn more about my work and technical expertise.
 
-- [About Me](index.md)
-- [Professional Experience](experience.md)
-- [Technical Skills](skills.md)
-- [Portfolio](../portfolio/index.md)
-- [Certifications](../certifications/index.md)
+[Engineering Showcase](../portfolio/engineering-showcase.md){ .md-button .md-button--primary }
+ [Professional Experience](experience.md){ .md-button } [Technical Skills](skills.md){ .md-button } 
+ [Certifications](../certifications/index.md){ .md-button } [Contact](../contact/index.md){ .md-button } 
 
 ---
 

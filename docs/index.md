@@ -14,25 +14,27 @@
 
 ## Quality Assurance Engineer • Test Automation Engineer • SDET
 
-[:fontawesome-brands-linkedin:](https://linkedin.com/in/michaeljndueso)
+[:fontawesome-brands-linkedin:](https://linkedin.com/in/michaeljndueso) 
+[:fontawesome-brands-github:](https://github.com/Jevmis)
 [:fontawesome-brands-upwork:](https://www.upwork.com/freelancers/~018ed634d00e6dd13c?mp_source=share)
 [:material-email-outline:](mailto:Michaeljndueso@outlook.com)
-[:fontawesome-brands-github:](https://github.com/Jevmis)
 [:fontawesome-solid-phone:](tel:+2348098963410)
 
 <!-- [:fontawesome-brands-x-twitter:](https://x.com/jevmis) -->
 
 
 
-> Building reliable software through **Quality Engineering**, **Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **DevOps**.
+> Building reliable software through **Quality Engineering**, **Test Automation**, **API Testing**, **Performance Engineering**, **Security Testing**, **SQL Validation**, and **CI/CD**.
 
-[View Portfolio](portfolio/index.md){ .md-button .md-button--primary } [View Resume](about/resume.md){ .md-button } [Contact Me](contact/index.md){ .md-button }
+[:material-folder-open: Explore Projects](portfolio/engineering-showcase.md){ .md-button .md-button--primary }
+[:material-file-account: View Resume](about/resume.md){ .md-button }
+[:material-email-outline: Contact Me](contact/index.md){ .md-button }
 
 ---
 
 # ⭐ Engineering Portfolio
 
-> Explore engineering systems, automation frameworks, dashboards, documentation, and testing solutions I've built to improve software quality and delivery.
+> Explore real-world engineering solutions I've built across automation, API testing, reporting systems, documentation, performance engineering, security testing, and CI/CD.
 
 <div class="grid cards" markdown>
 
@@ -52,11 +54,29 @@
 
      [Explore →](portfolio/engineering-showcase/playwright-framework.md)
 
+
+- :material-api:
+
+    ## 🔌 API Testing
+
+    Designed and automated REST API testing using Postman, Swagger/OpenAPI, SQL, Cypress, and Playwright, covering functional, authentication, contract, and regression testing.
+
+    [Explore →](portfolio/engineering-showcase/api-testing.md)
+
+
+- :material-chart-line:
+
+    ## 📊 Reporting Systems & QA Dashboards
+
+    Designed reporting systems and automated dashboards that transformed testing data into actionable insights for QA teams, management, customer service, and executive stakeholders using Google Sheets and workflow automation.
+
+    [Explore →](portfolio/engineering-showcase/reporting-systems.md)
+
 - :material-file-document-multiple:
 
     ## 📝 QA Documentation Suite
 
-    Authored comprehensive QA documentation including Test Plans, Test Cases, SOPs, User Acceptance Testing (UAT) documents, Release Notes, Bug Reporting Standards, QA workflows, and engineering guides used across multiple projects.
+    Created Test Plans, Test Cases, SOPs, UAT documentation, Release Notes, and engineering standards that improved consistency and delivery quality.
 
     [Explore →](portfolio/engineering-showcase/qa-documentation.md)
 
@@ -64,17 +84,10 @@
 
     ## 🧠 Knowledge Management System (KMS)
 
-    Designed and administered centralized engineering knowledge bases that streamlined onboarding, standardized QA processes, product documentation, and collaboration through role-based access control and structured documentation.
+    Built centralized engineering knowledge bases that streamlined onboarding, standardized QA processes, and improved team collaboration, through role-based access control and structured documentation.
 
     [Explore →](portfolio/engineering-showcase/wiki-documentation.md)
 
-- :material-api:
-
-    ## 🔌 API Testing
-
-    Designed and executed REST API testing strategies covering functional validation, authentication, contract verification, negative scenarios, backend validation, and automated API regression using Postman, Swagger/OpenAPI, SQL, and Cypress.
-
-    [Explore →](portfolio/engineering-showcase/api-testing.md)
 
 - :material-bug:
 
@@ -108,13 +121,6 @@
 
      [Explore →](portfolio/engineering-showcase/ci-cd.md)
 
-- :material-chart-line:
-
-    ## 📊 Reporting Systems & QA Dashboards
-
-    Designed reporting systems and automated dashboards that transformed testing data into actionable insights for QA teams, management, customer service, and executive stakeholders using Google Sheets and workflow automation.
-
-    [Explore →](portfolio/engineering-showcase/reporting-systems.md)
   
 </div>
 ---
@@ -123,7 +129,7 @@
 
 I'm **Michael Jackson Ndueso**, a Quality Assurance Engineer with over **5 years of experience** helping teams deliver reliable software.
 
-My work spans enterprise applications, fintech, healthcare, and government solutions, where I've designed automation frameworks, reporting systems, documentation, and engineering processes that improve software quality and team efficiency.
+Over the years, I've worked across enterprise applications, fintech, healthcare, and government solutions, designing automation frameworks, engineering documentation, reporting systems, and quality processes that help teams deliver reliable software with confidence.
 
 ---
 
@@ -167,9 +173,11 @@ My work spans enterprise applications, fintech, healthcare, and government solut
 
 # 🏅 Professional Certifications
 
-Continuous learning has been a core part of my professional journey.
+Continuous learning has been a cornerstone of my professional growth.
 
-I have earned certifications across multiple technical domains, including:
+To strengthen both my technical depth and practical engineering skills, I have earned **90+ professional certifications** across software quality assurance, test automation, cybersecurity, performance engineering, cloud technologies, data analytics, DevOps, IT operations, and project management.
+
+These certifications span multiple technical domains, including:
 
 - Software Quality Assurance
 - Test Automation Engineering
@@ -184,9 +192,9 @@ I have earned certifications across multiple technical domains, including:
 - Project Management
 - Operations Management & Process Improvement
 
-With **90+ professional certifications** from organizations including **Google, Mozilla, LinkedIn Learning, IBM, EC-Council, Coursera, Atlassian, BlazeMeter, Jack Welch Management Institute**, and others, I continuously invest in expanding my technical expertise and staying current with industry best practices.
+My certifications have been awarded by globally recognized organizations, including **Google, Mozilla, LinkedIn Learning, IBM, EC-Council, Coursera, Atlassian, BlazeMeter, Jack Welch Management Institute**, and others. They reflect my commitment to continuous improvement and staying current with evolving engineering practices.
 
-[View All Certifications](certifications/index.md){ .md-button .md-button--primary }
+[Explore All Certifications →](certifications/index.md){ .md-button .md-button--primary }
 
 ---
 # 🏗️ Engineering Principles
@@ -207,7 +215,7 @@ Over the years, I've built my approach around principles that promote scalable, 
 
 !!! quote "Engineering Philosophy"
 
-    These principles have shaped every automation framework, Knowledge Management System (KMS), QA documentation standard, reporting dashboard, and engineering process showcased throughout this portfolio.
+    Every automation framework, reporting dashboard, documentation system, and engineering solution showcased throughout this portfolio was built around these principles.
 
 ---
 

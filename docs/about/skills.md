@@ -6,9 +6,29 @@
 
 # Overview
 
-Throughout my career, I have developed experience across multiple areas of Quality Engineering, from manual testing and automation to performance testing, API validation, security testing, SQL verification, and QA leadership.
+Over the past **5+ years**, I've developed expertise across the full spectrum of Quality Engineering, from manual testing and automation to API validation, SQL verification, performance engineering, security testing, reporting systems, and QA leadership.
 
-My approach is not simply to execute tests but to engineer quality into the software development lifecycle through structured processes, automation, and continuous improvement.
+Rather than viewing testing as a final phase of development, I focus on building quality into the Software Development Lifecycle (SDLC) through structured processes, scalable automation, measurable engineering metrics, and continuous improvement.
+
+---
+
+!!! success "Skills Snapshot"
+
+    **Automation:** Cypress • Playwright
+
+    **Programming:** JavaScript • TypeScript • SQL
+
+    **API Testing:** Postman • Swagger/OpenAPI
+
+    **Performance:** Apache JMeter
+
+    **Security:** OWASP ZAP • OWASP Top 10
+
+    **DevOps:** GitHub Actions • Docker • Git
+
+    **Documentation:** Wiki.js • Markdown • SOPs
+
+    **Reporting:** Google Sheets Dashboards • QA Metrics
 
 ---
 
@@ -33,9 +53,9 @@ My core expertise includes:
 
 # Test Automation
 
-I design, build, and maintain scalable automation frameworks using modern testing technologies.
+I design and maintain scalable automation frameworks that improve regression coverage, reduce manual effort, and support continuous software delivery.
 
-### Primary Tools
+### Primary Technologies
 
 - Cypress
 - Playwright
@@ -45,17 +65,18 @@ I design, build, and maintain scalable automation frameworks using modern testin
 - JavaScript
 - TypeScript
 
-### Automation Experience
+### Automation Expertise
 
 - UI Automation
 - API Automation
-- Data-driven Testing
 - Page Object Model (POM)
-- Fixtures
+- Data-driven Testing
+- Reusable Components
 - Custom Commands
-- Test Hooks
+- Fixtures
 - Environment Configuration
 - Parallel Execution
+- Cross-browser Testing
 - CI/CD Integration
 
 ---
@@ -70,7 +91,7 @@ I perform comprehensive API validation using industry-standard tools.
 - Swagger / OpenAPI
 - Newman
 
-### Experience
+### API Validation
 
 - REST APIs
 - Authentication Testing
@@ -83,35 +104,32 @@ I perform comprehensive API validation using industry-standard tools.
 
 ---
 
-# SQL & Database Validation
-
-Experience validating backend systems using SQL.
-
-### Database Skills
+### Database Expertise
 
 - SQL Queries
-- Data Verification
-- Backend Validation
-- Data Integrity Checks
+- Backend Verification
+- Data Integrity Validation
 - Database Testing
-- Record Validation
+- Record Verification
 - Stored Procedure Validation
+- Data Consistency Checks
 
 ---
 
-# Performance Testing
+# Performance Engineering
 
-Experience evaluating application performance under different workloads.
+I use performance testing to evaluate application reliability, scalability, and stability under different workload conditions.
 
-### Tools
+### Primary Tool
 
 - Apache JMeter
 
-### Performance Testing
+### Areas Covered
 
 - Load Testing
 - Stress Testing
 - Spike Testing
+- Endurance Testing
 - Response Time Analysis
 - Throughput Monitoring
 - Performance Reporting
@@ -120,7 +138,7 @@ Experience evaluating application performance under different workloads.
 
 # Security Testing
 
-Knowledge of secure software testing practices.
+I perform baseline web application security assessments to identify common vulnerabilities and validate secure software practices.
 
 ### Experience
 
@@ -128,13 +146,13 @@ Knowledge of secure software testing practices.
 - OWASP ZAP
 - Authentication Testing
 - Authorization Validation
-- Session Management Testing
-- Security Checklist Validation
+- Session Management
+- Input Validation
 - Basic Vulnerability Assessment
 
 ---
 
-# DevOps & Continuous Integration
+# CI/CD & DevOps
 
 Supporting modern software delivery through automation.
 
@@ -168,42 +186,44 @@ Experience creating:
 
 ---
 
-# Reporting & Analytics
+# Reporting & Engineering Metrics
 
-One of my strongest areas is transforming testing data into actionable insights.
+One of my strongest engineering skills is transforming testing data into meaningful, real-time insights.
+
+Using Google Sheets automation, I've built reporting systems that help engineering teams and stakeholders monitor software quality throughout the release lifecycle.
 
 ### Experience
 
 - Google Sheets Automation
 - QA Dashboards
-- Test Metrics
-- Defect Metrics
-- Bug Trend Analysis
+- Test Execution Metrics
+- Defect Trends
 - Test Coverage Reporting
-- Release Readiness Dashboards
-- Executive QA Reports
+- Release Readiness
+- Executive Reporting
+- QA KPIs
 
 ---
 
 # Leadership
 
-Beyond testing, I enjoy helping teams improve their engineering practices.
+In addition to hands-on engineering work, I've led QA initiatives focused on improving team collaboration, documentation quality, testing standards, and release confidence.
 
 Leadership experience includes:
 
 - QA Team Leadership
-- Mentoring Junior QA Engineers
-- Test Planning
+- Mentoring QA Engineers
+- Test Strategy & Planning
 - Sprint Planning
 - QA Process Improvement
-- Code Reviews (Automation)
+- Automation Code Reviews
 - Risk Assessment
 - Release Coordination
 - Stakeholder Communication
 
 ---
 
-# Soft Skills
+# Professional Strengths
 
 Technical expertise is most effective when combined with strong communication and collaboration.
 
@@ -224,9 +244,9 @@ Some of my strongest professional skills include:
 
 # Continuous Learning
 
-Technology evolves rapidly, and I believe continuous learning is essential.
+Continuous learning is an important part of my professional growth.
 
-I regularly expand my knowledge in:
+Current areas of focus include:
 
 - Advanced Test Automation
 - Playwright
@@ -242,7 +262,10 @@ I regularly expand my knowledge in:
 
 ## Continue Exploring
 
+Learn more about my experience and engineering work:
+
+- [About Me](index.md)
 - [Professional Experience](experience.md)
 - [Career Journey](journey.md)
-- [Portfolio](../portfolio/index.md)
+- [Engineering Showcase](../portfolio/engineering-showcase.md)
 - [Certifications](../certifications/index.md)
