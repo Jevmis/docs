@@ -169,8 +169,6 @@ Technologies include:
 
 ---
 
----
-
 # Engineering Impact
 
 The solutions showcased throughout this portfolio were designed to solve practical engineering challenges encountered in real software projects.
