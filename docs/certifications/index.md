@@ -1,10 +1,6 @@
 # 🏅 Professional Certifications
 
-Continuous learning has been a defining part of my journey as a Quality Assurance Engineer. Beyond earning certifications, I focus on applying what I learn to real-world engineering challenges building automation frameworks, improving QA processes, validating APIs, performing performance and security testing, and designing documentation that helps teams deliver high-quality software.
-
-This section serves as a centralized registry of my professional certifications, organized by specialization to make it easier to explore the technologies, methodologies, and practices that support my work.
-
-Whether it's designing automation frameworks, performing API validation, executing performance tests, strengthening application security, or improving engineering processes, these certifications reflect my commitment to continuous professional development.
+A collection of my professional certifications, organized by technical specialization. Each category includes the relevant certifications, issue dates, and verification links where available.
 
 ---
 
@@ -12,64 +8,170 @@ Whether it's designing automation frameworks, performing API validation, executi
 
 | Metric | Value |
 |---------|------:|
-| 🏅 Professional Certifications | 80+ |
+| 🏅 Professional Certifications | **90+** |
 | 🏢 Learning Providers | Google, LinkedIn Learning, Coursera, Mozilla, Cybrary, BlazeMeter University, Atlassian, EC-Council, Zendesk, University of Minnesota, University of Leeds, LearnQuest, EF SET, Data Protection Academy, and more |
-| 🎯 Engineering Domains | QA Engineering • Test Automation • API Testing • Performance Engineering • Cybersecurity • DevOps • Software Engineering • Project Management • Data Analytics • Customer Experience |
+| 🎯 Technical Domains | QA Engineering • Test Automation • API Testing • Performance Engineering • Cybersecurity • DevOps • Software Engineering • Project Management • Data Analytics • Customer Experience |
 
 ---
 
-## Certification Portfolio
+## 📚 Explore Certifications
 
-This section documents my ongoing professional development across software quality engineering, automation, cybersecurity, DevOps, data analytics, project management, and related disciplines.
+You can browse my certifications in two ways:
 
-While certifications demonstrate structured learning, their greatest value lies in how they've influenced the engineering solutions showcased throughout this portfolio.
+- **By Specialization** – View certifications grouped by technical domain.
+- **Complete Registry** – Browse every certification in a single searchable page.
+
+!!! info "Verification"
+
+    Every certification page includes the issuing organization, issue date, key skills (where available), and a direct verification link whenever the credential is publicly accessible.
 
 ---
 
-## 🔍 Browse by Specialization
+## 🧩 Browse by Specialization
 
-Explore certifications by technical domain.
+Choose a category below to explore certifications related to a specific technical discipline.
 
-- 🧪 [QA & Test Automation](qa-automation.md) — UI automation, end-to-end testing, Cypress, Playwright, and software testing.
+### 🧪 QA & Test Automation
 
-- ⚡ [API & Performance Testing](api-testing.md) — REST API validation, Postman, JMeter, load testing, and performance engineering.
+**Focus Areas**
 
-- 💻 [Software Engineering](software-engineering.md) — JavaScript, Python, software engineering principles, and programming foundations.
+Cypress • Playwright • Software Testing • Test Automation • Quality Engineering
 
-- 🛡️ [Cybersecurity & Data Protection](cybersecurity.md) — Google Cybersecurity, Penetration Testing, OWASP concepts, Data Protection, and Security Operations.
+**Includes**
 
-- ☁️ [DevOps & Systems](devops-cloud.md) — Git, GitHub, Linux, Configuration Management, Operating Systems, Cloud concepts, and IT Infrastructure.
+UI Automation, End-to-End Testing, Automation Frameworks, Testing Fundamentals and Quality Engineering certifications.
 
-- 📊 [Data Analytics](data-analytics.md) — Google Data Analytics, visualization, SQL, R, spreadsheets, and business intelligence.
+➡️ **[View Certifications](qa-automation.md)**
 
-- 📈 [Operations & Project Management](operations-management.md) — Operations Excellence, Lean, Six Sigma, Google Project Management, Agile, and ITIL.
+---
 
-- 🤝 [Customer Experience](customer-experience.md) — Zendesk, CRM, customer support, communication, and service management.
+### ⚡ API & Performance Testing
 
-- 🌟 [Leadership & Professional Development](leadership.md) — Professional memberships, communication, English proficiency, workplace skills, and leadership development.
+**Focus Areas**
+
+REST APIs • Postman • JMeter • Performance Testing • Load Testing
+
+**Includes**
+
+API validation, performance engineering, load testing, and backend testing certifications.
+
+➡️ **[View Certifications](api-testing.md)**
+
+---
+
+### 💻 Software Engineering
+
+**Focus Areas**
+
+JavaScript • Python • Programming • Software Engineering
+
+**Includes**
+
+Programming foundations, JavaScript, Python, software engineering, and development-related certifications.
+
+➡️ **[View Certifications](software-engineering.md)**
+
+---
+
+### 🛡️ Cybersecurity & Data Protection
+
+**Focus Areas**
+
+Google Cybersecurity • Penetration Testing • OWASP • Data Protection • Security Operations
+
+**Includes**
+
+Cybersecurity, penetration testing, information security, privacy, and data protection certifications.
+
+➡️ **[View Certifications](cybersecurity.md)**
+
+---
+
+### ☁️ DevOps & Systems
+
+**Focus Areas**
+
+Git • GitHub • Linux • Cloud • IT Infrastructure
+
+**Includes**
+
+Configuration management, operating systems, infrastructure, DevOps, and cloud-related certifications.
+
+➡️ **[View Certifications](devops-cloud.md)**
+
+---
+
+### 📊 Data Analytics
+
+**Focus Areas**
+
+SQL • Google Data Analytics • R • Business Intelligence • Data Visualization
+
+**Includes**
+
+Data analytics, reporting, visualization, SQL, spreadsheets, and business intelligence certifications.
+
+➡️ **[View Certifications](data-analytics.md)**
+
+---
+
+### 📈 Operations & Project Management
+
+**Focus Areas**
+
+Operations Management • Lean • Agile • ITIL • Six Sigma • Jira
+
+**Includes**
+
+Project management, operations excellence, quality management, Agile, Lean, and ITIL certifications.
+
+➡️ **[View Certifications](operations-management.md)**
+
+---
+
+### 🤝 Customer Experience
+
+**Focus Areas**
+
+Zendesk • CRM • Customer Success • Communication
+
+**Includes**
+
+Customer support, customer experience, service management, and communication certifications.
+
+➡️ **[View Certifications](customer-experience.md)**
+
+---
+
+### 🌟 Leadership & Professional Development
+
+**Focus Areas**
+
+Leadership • Communication • Professional Development • Workplace Skills
+
+**Includes**
+
+Leadership, professional development, workplace effectiveness, memberships, and communication certifications.
+
+➡️ **[View Certifications](leadership.md)**
 
 ---
 
 ## 📋 Complete Certification Registry
 
-Browse every certification in a single, searchable registry.
+Looking for a specific certification?
 
-The registry includes:
+The **Complete Certification Registry** contains every certification in one place and includes:
 
-- Issuing organization
-- Issue date
-- Credential ID (where available)
-- Key skills
-- Verification link
+- 🏅 Certification title
+- 🏢 Issuing organization
+- 📅 Issue date
+- 🪪 Credential ID (where available)
+- 🔗 Official verification link
+- 🛠️ Key skills (where applicable)
 
-👉 **[Open the Complete Certifications Registry](all-certifications.md)**
-
----
-
-!!! tip "Verification"
-
-    Every certification includes the issuing organization, issue date, key skills (where available), and a verification link whenever publicly accessible.
+➡️ **[Browse the Complete Certification Registry](all-certifications.md)**
 
 ---
 
-> *Certifications represent milestones, not finish lines. The greatest value comes from applying what I've learned to build better automation, stronger QA processes, and more reliable software.*
+> *Certifications demonstrate continuous learning. Their true value comes from applying that knowledge to build scalable automation frameworks, improve engineering processes, strengthen software quality, and deliver reliable solutions.*
