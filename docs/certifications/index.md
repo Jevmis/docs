@@ -31,129 +31,99 @@ You can browse my certifications in two ways:
 
 Choose a category below to explore certifications related to a specific technical discipline.
 
-### 🧪 QA & Test Automation
+<div class="grid cards" markdown>
 
-**Focus Areas**
+- :simple-cypress: :material-play-circle:
 
-Cypress • Playwright • Software Testing • Test Automation • Quality Engineering
+    ## 🧪 QA & Test Automation
 
-**Includes**
+     **Topics Covered**
 
-UI Automation, End-to-End Testing, Automation Frameworks, Testing Fundamentals and Quality Engineering certifications.
+    Cypress • Playwright • UI Automation • End-to-End Testing • Test Automation Frameworks • Quality Engineering
 
-➡️ **[More Details](qa-automation.md)**
+    ➡️ **[More Details](qa-automation.md)**
 
----
+- :material-api:
 
-### ⚡ API & Performance Testing
+    ## ⚡ API & Performance Testing
 
-**Focus Areas**
+    **Topics Covered**
 
-REST APIs • Postman • JMeter • Performance Testing • Load Testing
+     REST APIs • Postman • API Validation • Apache JMeter • Performance Testing • Load Testing
 
-**Includes**
+    ➡️ **[More Details](api-testing.md)**
 
-API validation, performance engineering, load testing, and backend testing certifications.
+- :material-language-javascript:
 
-➡️ **[More Details](api-testing.md)**
+    ## 💻 Software Engineering
 
----
+    **Topics Covered**
 
-### 💻 Software Engineering
+    JavaScript • Python • Programming • Software Engineering • Development Fundamentals
 
-**Focus Areas**
+    ➡️ **[More Details](software-engineering.md)**
 
-JavaScript • Python • Programming • Software Engineering
+- :material-shield-lock:
 
-**Includes**
+    ## 🛡️ Cybersecurity & Data Protection
 
-Programming foundations, JavaScript, Python, software engineering, and development-related certifications.
+    **Topics Covered**
 
-➡️ **[More Details](software-engineering.md)**
+     Google Cybersecurity • Penetration Testing • OWASP • Data Protection • Security Operations
 
----
+    ➡️ **[More Details](cybersecurity.md)**
 
-### 🛡️ Cybersecurity & Data Protection
+- :material-source-branch:
 
-**Focus Areas**
+    ## ☁️ DevOps & Systems
 
-Google Cybersecurity • Penetration Testing • OWASP • Data Protection • Security Operations
+    **Topics Covered**
 
-**Includes**
+    Git • GitHub • Linux • Configuration Management • Cloud • IT Infrastructure
 
-Cybersecurity, penetration testing, information security, privacy, and data protection certifications.
+    ➡️ **[More Details](devops-cloud.md)**
 
-➡️ **[More Details](cybersecurity.md)**
+- :material-chart-bar:
 
----
+    ## 📊 Data Analytics
 
-### ☁️ DevOps & Systems
+    **Topics Covered**
 
-**Focus Areas**
+     SQL • Google Data Analytics • R • Data Visualization • Business Intelligence • Spreadsheets
 
-Git • GitHub • Linux • Cloud • IT Infrastructure
+     ➡️ **[More Details](data-analytics.md)**
 
-**Includes**
+- :material-briefcase-outline:
 
-Configuration management, operating systems, infrastructure, DevOps, and cloud-related certifications.
+    ## 📈 Operations & Project Management
 
-➡️ **[More Details](devops-cloud.md)**
+    **Topics Covered**
 
----
+    Operations Management • Agile • Lean • Six Sigma • ITIL • Jira • Project Management
 
-### 📊 Data Analytics
+    ➡️ **[More Details](operations-management.md)**
 
-**Focus Areas**
+- :material-headset:
 
-SQL • Google Data Analytics • R • Business Intelligence • Data Visualization
+    ## 🤝 Customer Experience
 
-**Includes**
+     **Topics Covered**
 
-Data analytics, reporting, visualization, SQL, spreadsheets, and business intelligence certifications.
+     Zendesk • CRM • Customer Success • Customer Support • Service Management • Communication
 
-➡️ **[More Details](data-analytics.md)**
+    ➡️ **[More Details](customer-experience.md)**
 
----
+- :material-account-group:
 
-### 📈 Operations & Project Management
+    ## 🌟 Leadership & Professional Development
 
-**Focus Areas**
+    **Topics Covered**
 
-Operations Management • Lean • Agile • ITIL • Six Sigma • Jira
+    Leadership • Professional Development • Workplace Skills • Communication • Professional Memberships
 
-**Includes**
+    ➡️ **[More Details](leadership.md)**
 
-Project management, operations excellence, quality management, Agile, Lean, and ITIL certifications.
-
-➡️ **[More Details](operations-management.md)**
-
----
-
-### 🤝 Customer Experience
-
-**Focus Areas**
-
-Zendesk • CRM • Customer Success • Communication
-
-**Includes**
-
-Customer support, customer experience, service management, and communication certifications.
-
-➡️ **[More Details](customer-experience.md)**
-
----
-
-### 🌟 Leadership & Professional Development
-
-**Focus Areas**
-
-Leadership • Communication • Professional Development • Workplace Skills
-
-**Includes**
-
-Leadership, professional development, workplace effectiveness, memberships, and communication certifications.
-
-➡️ **[More Details](leadership.md)**
+</div>
 
 ---
 
