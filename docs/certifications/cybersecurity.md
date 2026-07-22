@@ -1,24 +1,26 @@
 # 🛡️ Cybersecurity & Data Protection Certifications
 
-These certifications demonstrate my growing expertise in cybersecurity, penetration testing, application security, privacy compliance, and defensive security practices. They complement my experience performing security testing using OWASP ZAP, SQL injection validation, vulnerability assessment, and secure software quality assurance.
+These certifications reflect my continued professional development in cybersecurity, application security, penetration testing, privacy, and secure software engineering.
+
+They complement my practical experience performing baseline security assessments, validating application security controls, testing authentication workflows, and integrating security considerations into the software quality lifecycle using tools such as OWASP ZAP, SQL validation, and secure testing practices.
 
 ---
 
-## Certification Summary
+## 📊 Certification Snapshot
 
 | Category | Details |
 |----------|---------|
-| Total Certifications | 12 |
+| Total Certifications | 14 |
 | Primary Focus | Cybersecurity, Penetration Testing & Data Protection |
-| Platforms | Google, LinkedIn Learning, Cybrary, EC-Council, Data Protection Academy, EF SET |
+| Platforms | Google, LinkedIn Learning, Cybrary, EC-Council, Data Protection Academy |
 | Technologies | OWASP ZAP, Security Testing, Ethical Hacking, Linux, SQL, Network Security |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Google Cybersecurity Professional Certificate | Google | May 2026 | Cybersecurity, Incident Response, Linux, SQL | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/specialization/SHI35UV78BTY) |
 | 2 | Put It to Work: Prepare for Cybersecurity Jobs | Google | May 2026 | Cybersecurity Careers | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/OLDI882BBF3E) |
 | 3 | Automate Cybersecurity Tasks with Python | Google | May 2026 | Python, Security Automation | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/records/5P1OXL51S9YA) |
@@ -33,11 +35,10 @@ These certifications demonstrate my growing expertise in cybersecurity, penetrat
 | 12 | Data Protection Practitioner Certification | Data Protection Academy | Jul 2025 | Data Protection, NDPA, Security Operations | [:material-open-in-new: Verify](http://www.dataprotectionacademy.com.ng/verify) |
 | 13 | Foundations of Cybersecurity | Google | Oct 2025 | Cybersecurity Fundamentals | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/CJCZIY1L6MBJ) |
 | 14 | Certified Secure Computer User (C/SCU) | EC-Council | Mar 2015 | Secure Computing | Credential ID: ECC17767873891 |
-| 15 | EF SET English Certificate (B2 Upper Intermediate) | EF SET | Nov 2022 | English Communication | [:material-open-in-new: Verify](https://cert.efset.org/EDF3Ge) |
 
 ---
 
-## Skills Acquired
+## 🛠️ Skills Reinforced
 
 - OWASP Top 10
 - OWASP ZAP
@@ -58,6 +59,21 @@ These certifications demonstrate my growing expertise in cybersecurity, penetrat
 
 ---
 
+## 💡 Practical Application
+
+The knowledge gained from these certifications has been applied across my engineering projects, including:
+
+- Performing baseline web security assessments using OWASP ZAP
+- Identifying common web application vulnerabilities
+- Validating authentication and session management
+- Supporting secure software development practices
+- Performing SQL validation and secure backend verification
+- Applying risk-based testing during QA activities
+- Understanding Linux environments used in automation and testing
+- Incorporating security considerations into API and UI testing
+
+---
+
 ### Continue Exploring
 
 - 🤖 [QA Automation](qa-automation.md)
@@ -66,6 +82,6 @@ These certifications demonstrate my growing expertise in cybersecurity, penetrat
 - ☁️ [DevOps & Systems](devops-cloud.md)
 - 📊 [Data Analytics](data-analytics.md)
 - 📈 [Operations & Project Management](operations-management.md)
-- 💬 [Customer Experience](customer-experience.md)
+- 🤝 [Customer Experience](customer-experience.md)
 - 🌟 [Leadership & Professional Development](leadership.md)
 - 📋 [Complete Certifications Registry](all-certifications.md)

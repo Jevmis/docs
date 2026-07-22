@@ -1,6 +1,7 @@
 # 🛡️ Security Testing with OWASP ZAP
 
-> Security is an essential aspect of software quality. My approach combines functional testing with vulnerability assessment to help identify security risks before production deployment.
+> Security is most effective when it becomes part of the engineering process, not an afterthought.
+ My approach combines functional testing with vulnerability assessment to help identify security risks before production deployment.
 
 ---
 
@@ -8,11 +9,11 @@
 
 In addition to functional and automation testing, I perform baseline security assessments using OWASP ZAP to identify common web application vulnerabilities.
 
-My goal is not to replace dedicated penetration testers but to integrate security validation into the QA process and support secure software development practices.
+My goal is to identify common security weaknesses early in the software delivery lifecycle, enabling engineering teams to remediate issues before production. While this does not replace a dedicated penetration test, it complements functional testing by integrating baseline application security checks into the QA process.
 
 ---
 
-# Security Testing Areas
+## Security Validation Coverage
 
 Typical assessments include:
 
@@ -75,25 +76,22 @@ Developer Remediation
 
 # Vulnerabilities Assessed
 
-✔ Cross-Site Scripting (XSS)
+### Input Validation
+- Cross-Site Scripting (XSS)
+- SQL Injection
+- Cross-Site Request Forgery (CSRF)
 
-✔ SQL Injection
+### Authentication & Session Security
+- Authentication Weaknesses
+- Session Management
+- Cookie Security
 
-✔ Missing Security Headers
-
-✔ Cookie Flags
-
-✔ Directory Browsing
-
-✔ Authentication Weaknesses
-
-✔ Session Issues
-
-✔ Information Disclosure
-
-✔ Insecure HTTP Methods
-
-✔ Mixed Content
+### Configuration & Infrastructure
+- Missing Security Headers
+- Insecure HTTP Methods
+- Mixed Content
+- Information Disclosure
+- Directory Browsing
 
 ---
 
@@ -108,13 +106,27 @@ Developer Remediation
 
 # Deliverables
 
-Typical outputs include:
+Typical deliverables include:
 
-- OWASP ZAP Scan Report
-- Vulnerability Summary
-- Risk Assessment
-- Remediation Recommendations
+- HTML Security Assessment Reports
+- Vulnerability Summaries
+- Risk Classification
 - Evidence Screenshots
+- Remediation Recommendations
+- Security Validation Results
+
+---
+
+# Business Impact
+
+Integrating baseline security testing into the QA process helped teams:
+
+- Identify common vulnerabilities earlier in the development lifecycle
+- Improve release confidence through security validation
+- Reduce the risk of deploying known security issues
+- Support secure development practices
+- Provide developers with actionable remediation guidance
+- Encourage security awareness across engineering teams
 
 ---
 
@@ -137,9 +149,13 @@ This scan highlights how vulnerabilities are prioritized using OWASP ZAP's Alert
 [:fontawesome-brands-linkedin: Read the full LinkedIn article](https://www.linkedin.com/posts/michaeljndueso_websecurity-applicationsecurity-softwarequality-activity-7467832668865409024-IYpf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC0KOAMB4JNjVL1I3Cfum1yHcU8dfCVfy80){ .md-button .md-button--primary }
 
 
-## 📄 Sample Security Assessment HTML Report
+## 📄 Sample Security Assessment Report
 
-View a sample OWASP ZAP vulnerability assessment report generated during an automated security scan.
+The report below demonstrates the type of HTML vulnerability assessment generated after an automated OWASP ZAP scan. It summarizes discovered issues, their severity, affected endpoints, and recommended remediation steps.
+
+{ loading=lazy }
+
+> Sensitive project information has been removed for confidentiality.
 
 ![Sample Security Assessment HTML Report](../../assets/images/engineering-showcase/zap/zap-html-report.png){ .md-button .md-button--primary }
 
@@ -166,4 +182,10 @@ View a sample OWASP ZAP vulnerability assessment report generated during an auto
 - Risk Analysis
 - Security Reporting
 - Secure SDLC
+
+---
+
+# Lessons Learned
+
+Security testing reinforced that software quality extends beyond functionality. By incorporating baseline security validation into regular QA activities, teams can detect common vulnerabilities earlier, reduce remediation costs, and build more secure applications without disrupting development workflows.
 

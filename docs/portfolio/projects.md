@@ -13,25 +13,16 @@ Each project reflects a practical challenge encountered in real-world environmen
 ---
 
 !!! success "Featured Engineering Projects"
-```
-📊 QA Reporting Dashboard
 
-🤖 Cypress Automation Framework
-
-🎭 Playwright Automation Framework
-
-📝 QA Documentation Suite
-
-🧠 Wiki.js Knowledge Base
-
-🔌 API Testing
-
-⚡ Performance Engineering
-
-🛡️ Security Testing
-
-🚀 CI/CD Integration
-```
+    - 📊 QA Reporting Dashboard
+    - 🤖 Cypress Automation Framework
+    - 🎭 Playwright Automation Framework
+    - 📝 QA Documentation Suite
+    - 🧠 Wiki.js Knowledge Base
+    - 🔌 API Testing
+    - ⚡ Performance Engineering
+    - 🛡️ Security Testing
+    - 🚀 CI/CD Integration
 
 ---
 

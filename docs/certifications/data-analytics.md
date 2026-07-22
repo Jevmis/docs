@@ -1,10 +1,12 @@
 # 📊 Data Analytics Certifications
 
-These certifications strengthened my ability to collect, clean, analyze, visualize, and communicate data for informed business decisions. They complement my QA reporting experience, dashboard automation, metrics reporting, and Google Sheets-based engineering analytics.
+These certifications demonstrate my knowledge of data analysis, business intelligence, data visualization, and analytical decision-making.
+
+They complement my experience designing automated QA dashboards, engineering reporting systems, tracking quality metrics, and transforming testing data into actionable insights using Google Sheets, SQL, and visualization techniques.
 
 ---
 
-## Certification Summary
+## 📊 Certification Snapshot
 
 | Category | Details |
 |----------|---------|
@@ -15,10 +17,10 @@ These certifications strengthened my ability to collect, clean, analyze, visuali
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Google Data Analytics Professional Certificate | Coursera / Google | Jun 2022 | Data Analytics | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/professional-cert/DYCKUAVVEWEM) |
 | 2 | Google Data Analytics Certificate (Credly Badge) | Google | Jun 2022 | Data Analytics | [:material-open-in-new: Verify](https://www.credly.com/badges/150d9e14-f28c-49ab-8fe0-f400aae8a575?source=linked_in_profile) |
 | 3 | Foundations: Data, Data, Everywhere | Google | May 2022 | Data Foundations | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/TELXAQC3VKF2) |
@@ -32,20 +34,34 @@ These certifications strengthened my ability to collect, clean, analyze, visuali
 
 ---
 
-## Skills Acquired
+## 🛠️ Skills Reinforced
 
 - Data Analysis
 - Data Cleaning
 - Data Visualization
 - Business Intelligence
-- Google Sheets
 - SQL
 - R Programming
-- Dashboard Reporting
-- KPI Analysis
+- Google Sheets
+- Dashboard Design
+- KPI Reporting
+- Metrics Analysis
 - Data Storytelling
-- Metrics Reporting
-- Decision Support
+- Business Decision Support
+
+---
+
+## 💡 Practical Application
+
+The knowledge gained from these certifications has supported my work across several engineering initiatives, including:
+
+- Designing automated QA dashboards in Google Sheets
+- Building reporting systems for engineering and business stakeholders
+- Tracking software quality metrics and KPIs
+- Visualizing testing progress and defect trends
+- Using SQL for backend validation and data verification
+- Transforming raw testing data into actionable insights
+- Supporting data-driven release decisions through reporting and analytics
 
 ---
 
@@ -57,6 +73,6 @@ These certifications strengthened my ability to collect, clean, analyze, visuali
 - 🛡️ [Cybersecurity & Data Protection](cybersecurity.md)
 - ☁️ [DevOps & Systems](devops-cloud.md)
 - 📈 [Operations & Project Management](operations-management.md)
-- 💬 [Customer Experience](customer-experience.md)
+- 🤝 [Customer Experience](customer-experience.md)
 - 🌟 [Leadership & Professional Development](leadership.md)
 - 📋 [Complete Certifications Registry](all-certifications.md)

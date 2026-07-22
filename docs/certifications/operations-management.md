@@ -1,24 +1,26 @@
 # 📈 Operations & Project Management Certifications
 
-These certifications demonstrate my expertise in operational excellence, project delivery, business process improvement, Lean methodologies, Agile practices, and quality management. They complement my experience leading QA teams, improving engineering workflows, and driving process optimization across software development lifecycles.
+These certifications demonstrate my knowledge of project management, operational excellence, business process improvement, Agile delivery, Lean methodologies, and quality management.
+
+They complement my experience leading QA initiatives, improving engineering workflows, standardizing software quality processes, and supporting the successful delivery of software projects across cross-functional teams.
 
 ---
 
-## Certification Summary
+## 📊 Certification Snapshot
 
 | Category | Details |
 |----------|---------|
 | Total Certifications | 17 |
 | Primary Focus | Operations, Quality & Project Management |
-| Platforms | Google, LinkedIn Learning, Coursera, Jack Welch Management Institute, LearnQuest |
-| Areas | Operations, Agile, Lean, Six Sigma, Project Management |
+| Platforms | Google, LinkedIn Learning, Coursera, Jack Welch Management Institute, LearnQuest, Atlassian |
+| Areas | Operations Management, Agile, Lean, Six Sigma, Project Management, IT Service Management |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Google Project Management Professional Certificate | Google / Coursera | Nov 2022 | Project Management | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/professional-cert/9V8ZHP2SJAB8) |
 | 2 | Foundations of Project Management | Google | Jun 2022 | Project Management | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/KEHZXWNMQMXM) |
 | 3 | Project Initiation: Starting a Successful Project | Google | Jul 2022 | Project Initiation | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/WA3TKNELAEPT) |
@@ -39,7 +41,7 @@ These certifications demonstrate my expertise in operational excellence, project
 
 ---
 
-## Skills Acquired
+## 🛠️ Skills Reinforced
 
 - Project Management
 - Agile Methodologies
@@ -56,8 +58,22 @@ These certifications demonstrate my expertise in operational excellence, project
 - Change Management
 - IT Service Management (ITIL)
 - Jira
-- Supply Chain Fundamentals
 - Continuous Improvement
+
+---
+
+## 💡 Practical Application
+
+The knowledge gained from these certifications has supported my work across software quality and engineering initiatives, including:
+
+- Planning and coordinating QA activities across software projects
+- Improving testing workflows and engineering processes
+- Standardizing QA documentation and release procedures
+- Applying Agile principles within Scrum teams
+- Managing work items and defects using Jira
+- Supporting risk assessment and release readiness
+- Driving continuous process improvement across QA operations
+- Collaborating effectively with developers, business analysts, product owners, and stakeholders
 
 ---
 
@@ -69,6 +85,6 @@ These certifications demonstrate my expertise in operational excellence, project
 - 🛡️ [Cybersecurity & Data Protection](cybersecurity.md)
 - ☁️ [DevOps & Systems](devops-cloud.md)
 - 📊 [Data Analytics](data-analytics.md)
-- 💬 [Customer Experience](customer-experience.md)
+- 🤝 [Customer Experience](customer-experience.md)
 - 🌟 [Leadership & Professional Development](leadership.md)
 - 📋 [Complete Certifications Registry](all-certifications.md)

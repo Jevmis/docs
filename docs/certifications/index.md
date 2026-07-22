@@ -1,6 +1,6 @@
 # 🏅 Professional Certifications
 
-Continuous learning has been a core part of my career as a Quality Assurance Engineer and Test Automation Engineer. Beyond gaining certifications, I focus on applying the knowledge to real-world projects, automation frameworks, quality processes, security assessments, and engineering documentation.
+Continuous learning has been a defining part of my journey as a Quality Assurance Engineer. Beyond earning certifications, I focus on applying what I learn to real-world engineering challenges building automation frameworks, improving QA processes, validating APIs, performing performance and security testing, and designing documentation that helps teams deliver high-quality software.
 
 This section serves as a centralized registry of my professional certifications, organized by specialization to make it easier to explore the technologies, methodologies, and practices that support my work.
 
@@ -14,7 +14,15 @@ Whether it's designing automation frameworks, performing API validation, executi
 |---------|------:|
 | 🏅 Professional Certifications | 80+ |
 | 🏢 Learning Providers | Google, LinkedIn Learning, Coursera, Mozilla, Cybrary, BlazeMeter University, Atlassian, EC-Council, Zendesk, University of Minnesota, University of Leeds, LearnQuest, EF SET, Data Protection Academy, and more |
-| 🎯 Core Domains | QA Engineering, Test Automation, API Testing, Performance Engineering, Cybersecurity, DevOps, Software Engineering, Project Management, Data Analytics, Customer Experience |
+| 🎯 Engineering Domains | QA Engineering • Test Automation • API Testing • Performance Engineering • Cybersecurity • DevOps • Software Engineering • Project Management • Data Analytics • Customer Experience |
+
+---
+
+## Certification Portfolio
+
+This section documents my ongoing professional development across software quality engineering, automation, cybersecurity, DevOps, data analytics, project management, and related disciplines.
+
+While certifications demonstrate structured learning, their greatest value lies in how they've influenced the engineering solutions showcased throughout this portfolio.
 
 ---
 
@@ -22,9 +30,9 @@ Whether it's designing automation frameworks, performing API validation, executi
 
 Explore certifications by technical domain.
 
-- 🧪 [QA & Test Automation](qa-automation.md) — UI automation frameworks, end-to-end testing, Playwright, Cypress, and software testing methodologies.
+- 🧪 [QA & Test Automation](qa-automation.md) — UI automation, end-to-end testing, Cypress, Playwright, and software testing.
 
-- ⚡ [API & Performance Testing](api-testing.md) — REST API validation, Postman, Apache JMeter, performance engineering, and load testing.
+- ⚡ [API & Performance Testing](api-testing.md) — REST API validation, Postman, JMeter, load testing, and performance engineering.
 
 - 💻 [Software Engineering](software-engineering.md) — JavaScript, Python, software engineering principles, and programming foundations.
 
@@ -42,11 +50,17 @@ Explore certifications by technical domain.
 
 ---
 
-## 📋 Complete Master Registry
+## 📋 Complete Certification Registry
 
-Prefer to browse every certification in one place?
+Browse every certification in a single, searchable registry.
 
-The Master Registry contains every certification, provider, issue date, credential ID (where available), associated skills, and verification link.
+The registry includes:
+
+- Issuing organization
+- Issue date
+- Credential ID (where available)
+- Key skills
+- Verification link
 
 👉 **[Open the Complete Certifications Registry](all-certifications.md)**
 
@@ -54,8 +68,8 @@ The Master Registry contains every certification, provider, issue date, credenti
 
 !!! tip "Verification"
 
-    Every certification listed throughout this portfolio includes the issuing organization, issue date, key skills (where available), and a verification link whenever one is publicly accessible.
+    Every certification includes the issuing organization, issue date, key skills (where available), and a verification link whenever publicly accessible.
 
 ---
 
-> *Learning doesn't stop after earning a certificate. Every course has contributed to practical work, from automation frameworks and engineering documentation to security testing, performance engineering, QA leadership, and continuous process improvement.*
+> *Certifications represent milestones, not finish lines. The greatest value comes from applying what I've learned to build better automation, stronger QA processes, and more reliable software.*

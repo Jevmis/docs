@@ -1,6 +1,6 @@
 # 💻 Software Engineering Certifications
 
-These certifications cover programming fundamentals, JavaScript development, scripting, version control, software engineering concepts, and AI-assisted productivity. Together, they strengthen the engineering skills required to build, automate, and maintain modern software systems.
+These certifications cover programming fundamentals, JavaScript development, scripting, version control, software engineering concepts, and AI-assisted productivity. Together, they strengthen the programming and engineering skills required to design, build, automate, and maintain modern software systems.
 
 ---
 
@@ -8,17 +8,17 @@ These certifications cover programming fundamentals, JavaScript development, scr
 
 | Category | Details |
 |----------|---------|
-| Total Certifications | 7 |
-| Primary Focus | Software Engineering & Programming |
-| Platforms | Mozilla, LinkedIn Learning, Google, Coursera |
-| Technologies | JavaScript, Python, Git, GitHub, AI, Google Workspace |
+| **Total Certifications** | **7** |
+| **Primary Focus** | Software Engineering & Programming |
+| **Learning Providers** | Mozilla, LinkedIn Learning, Google, Coursera |
+| **Technologies** | JavaScript, Python, Git, GitHub, AI |
 
 ---
 
 ## Certifications
 
 | S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+|-----|--------------|----------|--------|--------|--------------|
 | 1 | JavaScript Foundations Professional Certificate | Mozilla | Jun 2026 | JavaScript, Web Development | [:material-open-in-new: Verify](https://www.linkedin.com/learning/certificates/2d416594a2096112ac88b9780683ba2a61479cdeb70730aa062c637d077f30c9) |
 | 2 | JavaScript Essential Training | LinkedIn Learning | Jun 2026 | JavaScript | [:material-open-in-new: Verify](https://www.linkedin.com/learning/certificates/053308501c11d62ba0fe807ee1beb1f657850c21dd5aee0583d8e8b1f5a27054) |
 | 3 | Learning the JavaScript Language | LinkedIn Learning | Jun 2026 | JavaScript | [:material-open-in-new: Verify](https://www.linkedin.com/learning/certificates/2c6f56a36b6b3244f3144d29fc017949039e97d0726411501549e30f1f8ea064) |
@@ -35,11 +35,11 @@ These certifications cover programming fundamentals, JavaScript development, scr
 - Python
 - Git & GitHub
 - Version Control
-- AI Productivity
 - Programming Fundamentals
+- Software Engineering Principles
 - Automation Scripting
 - Operating System Automation
-- Software Engineering Principles
+- AI Productivity
 
 ---
 

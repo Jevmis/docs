@@ -6,13 +6,13 @@
 
 ## Overview
 
-Finding defects is only part of a QA Engineer's responsibility. Equally important is communicating those defects in a way that enables developers, product owners, and stakeholders to understand, prioritize, reproduce, and resolve them efficiently.
+Identifying defects is only one part of Quality Assurance. Equally important is communicating those defects clearly enough for engineering teams to understand, reproduce, prioritize, and resolve them efficiently.
 
-Throughout my QA career, I have maintained structured defect reporting standards that improve collaboration and accelerate issue resolution across engineering teams.
+Throughout my career, I've maintained structured defect management practices that improve collaboration between QA, developers, product owners, and stakeholders. My approach emphasizes clarity, reproducibility, and business impact, ensuring every defect report contributes to faster resolution and higher software quality.
 
 ---
 
-## Defect Management Process
+## Defect Management Workflow
 
 ```text
 Requirement
@@ -49,21 +49,35 @@ Closure
 
 ## Bug Report Template
 
-Every defect report includes:
+Every defect report is designed to provide developers with all the information required to reproduce and resolve an issue efficiently.
+
+### Basic Information
 
 - Summary
 - Description
 - Environment
 - Preconditions
+
+### Validation
+
 - Steps to Reproduce
 - Expected Result
 - Actual Result
+
+### Classification
+
 - Severity
 - Priority
-- Supporting Evidence
-- Browser / Device Information
-- Logs (where applicable)
-- Attachments (Screenshots / Videos)
+
+### Supporting Evidence
+
+- Screenshots
+- Screen Recordings
+- Browser Console Logs
+- Network Logs
+- SQL Query Results
+- API Request & Response Payloads
+- Browser & Device Information
 
 ---
 
@@ -109,8 +123,8 @@ To improve reproducibility, I attach evidence whenever possible:
 | Tool | Purpose |
 |------|---------|
 | Jira | Defect Tracking |
-| Google Sheets | Defect Reporting |
-| Browser DevTools | Investigation |
+| Google Sheets | Defect Reporting & Metrics |
+| Browser DevTools | Root Cause Investigation |
 | SQL | Backend Validation |
 | Postman | API Verification |
 | OBS / Screen Recording | Video Evidence |
@@ -142,7 +156,14 @@ Closed
 
 ---
 
-## Sample Bug Report
+## Sample Bug Reports
+
+Examples included within my portfolio demonstrate different reporting styles used across projects, including:
+
+- Jira Defect
+- Google Sheets Defect Log
+- Markdown Bug Report
+- PDF Defect Report
 
 - ![Bug Report](../../assets/images/engineering-showcase/qa-dashboard/defect-management-dashboard.png)
 
@@ -152,6 +173,35 @@ Recommended examples:
 - Google Sheets Defect Log
 - Markdown Bug Report
 - PDF Bug Report
+- Validate issues before reporting.
+- Link defects to business requirements where applicable.
+
+---
+
+# Defect Reporting Principles
+
+Every defect report I create follows four core principles:
+
+- Clarity over complexity
+- Reproducibility
+- Business impact awareness
+- Actionable recommendations
+
+---
+
+# Common Defect Categories
+
+Typical defects I've investigated include:
+
+- Functional Issues
+- Validation Errors
+- UI/UX Defects
+- API Failures
+- Database Inconsistencies
+- Performance Issues
+- Security Findings
+- Browser Compatibility Issues
+- Regression Defects
 
 ---
 
@@ -169,32 +219,48 @@ Recommended examples:
 
 ## Business Impact
 
-A structured defect management process helps:
+A structured defect management process helps engineering teams:
 
 - Reduce communication gaps
-- Improve developer productivity
 - Accelerate issue resolution
-- Improve release quality
-- Increase stakeholder confidence
-- Maintain traceability throughout the software development lifecycle
+- Improve developer productivity
+- Increase release confidence
+- Improve software quality
+- Maintain end-to-end traceability
+- Support data-driven release decisions
 
 ---
 
 ## Skills Demonstrated
 
+### Quality Engineering
+
 - Defect Management
-- Root Cause Analysis
-- Bug Reporting
 - Regression Testing
-- QA Documentation
-- Jira
-- Google Sheets
+- Root Cause Analysis
+
+### Investigation
+
 - SQL Validation
 - API Verification
+
+### Collaboration
+
+- Jira
+- Google Sheets
+- QA Documentation
 - Stakeholder Communication
 
 ---
 
 ## Lessons Learned
 
-Effective bug reporting is not just about identifying defects, it's about providing enough context for teams to reproduce, understand, prioritize, and resolve issues efficiently. Well-written defect reports reduce back-and-forth communication, shorten resolution time, and contribute to delivering higher-quality software.
+Effective bug reporting goes beyond documenting defects—it enables collaboration.
+
+Clear, reproducible, and well-prioritized defect reports reduce unnecessary back-and-forth discussions, shorten resolution times, and help engineering teams deliver reliable software with greater confidence.
+
+A well-written bug report should enable another engineer to understand the issue without requiring additional clarification.
+
+---
+
+> **"A bug report isn't just a record of a defect, it is a communication tool that helps engineering teams solve problems efficiently."**

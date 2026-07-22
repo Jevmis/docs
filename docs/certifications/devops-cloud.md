@@ -1,24 +1,26 @@
 # ☁️ DevOps & Systems Certifications
 
-These certifications strengthen my understanding of DevOps practices, cloud support, operating systems, automation, version control, infrastructure management, and enterprise productivity platforms. They complement my experience building CI/CD-ready automation frameworks, working with GitHub Actions, Docker, Linux, and modern QA engineering workflows.
+These certifications demonstrate my understanding of DevOps practices, automation, infrastructure, version control, operating systems, cloud technologies, and enterprise productivity platforms.
+
+They complement my experience building CI/CD-ready automation frameworks, working with GitHub Actions, Docker, Linux, Git, and modern Quality Engineering workflows while strengthening my ability to support reliable software delivery pipelines.
 
 ---
 
-## Certification Summary
+## 📊 Certification Snapshot
 
 | Category | Details |
 |----------|---------|
-| Total Certifications | 16 |
+| Total Certifications | 18 |
 | Primary Focus | DevOps, IT Automation & Infrastructure |
 | Platforms | Google, Coursera, IBM |
-| Technologies | Linux, Git, Python, Cloud, Google Workspace, Windows |
+| Technologies | Linux, Git, Python, Cloud Technologies, Google Workspace, Windows Administration |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Google IT Automation with Python Professional Certificate | Google | Aug 2025 | Python Automation, DevOps | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/specialization/0Y5PIUD166Q8) |
 | 2 | Automating Real-World Tasks with Python | Google | Aug 2025 | Python Automation | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/83IY04I9K65K) |
 | 3 | Configuration Management and the Cloud | Google | Aug 2025 | Cloud, Configuration Management | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/LYHE37BUCFOD) |
@@ -40,21 +42,37 @@ These certifications strengthen my understanding of DevOps practices, cloud supp
 
 ---
 
-## Skills Acquired
+## 🛠️ Skills Reinforced
 
 - Git & GitHub
-- Linux Administration
+- Linux
 - Python Automation
 - Configuration Management
 - Cloud Fundamentals
-- System Troubleshooting
-- Debugging
-- Google Workspace
-- Windows Security
+- DevOps Fundamentals
+- CI/CD Foundations
 - Infrastructure Support
 - Automation Scripting
-- Enterprise Productivity
-- CI/CD Foundations
+- Google Workspace
+- Windows Administration
+- System Troubleshooting
+- Debugging
+- Collaboration Tools
+
+---
+
+## 💡 Practical Application
+
+The knowledge gained from these certifications has supported my work across several engineering projects, including:
+
+- Building CI/CD-ready automation frameworks
+- Managing source code with Git and GitHub
+- Working with Linux-based development environments
+- Automating tasks using Python
+- Supporting configuration management and cloud-based workflows
+- Using Docker and modern development tools during automation projects
+- Designing reporting dashboards and documentation using Google Workspace
+- Collaborating efficiently across distributed engineering teams
 
 ---
 
@@ -66,6 +84,6 @@ These certifications strengthen my understanding of DevOps practices, cloud supp
 - 🛡️ [Cybersecurity & Data Protection](cybersecurity.md)
 - 📊 [Data Analytics](data-analytics.md)
 - 📈 [Operations & Project Management](operations-management.md)
-- 💬 [Customer Experience](customer-experience.md)
+- 🤝 [Customer Experience](customer-experience.md)
 - 🌟 [Leadership & Professional Development](leadership.md)
 - 📋 [Complete Certifications Registry](all-certifications.md)

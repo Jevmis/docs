@@ -1,24 +1,26 @@
 # 🤖 QA Automation Certifications
 
-These certifications demonstrate my expertise in software quality assurance, manual testing, test automation, API validation, and modern testing practices. They cover both the theoretical foundations of software testing and practical implementation using industry-standard tools such as Cypress.
+These certifications reflect my continued investment in Software Quality Assurance, Test Automation, API Testing, and modern quality engineering practices. They complement my hands-on experience by strengthening both the theoretical foundations and practical techniques used to build reliable, maintainable, and scalable testing solutions.
+
+The knowledge gained from these programs has been applied directly to automation frameworks, API validation, regression testing, and quality processes featured throughout this portfolio.
 
 ---
 
-## Certification Summary
+## 📊 Certification Snapshot
 
-| Category | Details |
-|----------|---------|
-| Total Certifications | 8 |
-| Primary Focus | Test Automation & Software Quality |
-| Platforms | LinkedIn Learning, Coursera, University of Leeds, University of Minnesota |
-| Technologies | Cypress, API Testing, Software Testing, Automated Analysis |
+| Metric | Details |
+|--------|---------|
+| 🏅 Total Certifications | 8 |
+| 🎯 Primary Focus | Software Testing & Test Automation |
+| 🏛️ Learning Providers | LinkedIn Learning, Coursera, University of Leeds, University of Minnesota |
+| 🛠️ Core Technologies | Cypress, REST APIs, Software Testing, Automated Analysis |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-| S/N | Certification | Provider | Issued | Skills | Verification |
-|:--:|---------------|----------|:------:|--------|--------------|
+| S/N | Certification | Provider | Issued | Key Skills | Verification |
+| --- | --- | --- | --- | --- | --- |
 | 1 | API Testing Foundations | LinkedIn Learning | Jun 2026 | REST APIs, API Testing | [:material-open-in-new: Verify](https://www.linkedin.com/learning/certificates/ee29b37a1c290b4a93d3d2d628a23f2caf8ceda0f40a4950ad3239287c8cbdba) |
 | 2 | Foundations of Software Testing and Validation | University of Leeds (Coursera) | May 2024 | Software Testing, Validation | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/FTM3LNJNRKF7) |
 | 3 | Introduction to Software Testing | University of Minnesota (Coursera) | May 2024 | QA Fundamentals, Software Testing | [:material-open-in-new: Verify](https://www.coursera.org/account/accomplishments/verify/7G7EBYVDCNYF) |
@@ -30,18 +32,32 @@ These certifications demonstrate my expertise in software quality assurance, man
 
 ---
 
-## Skills Acquired
+## 🛠️ Skills Reinforced
+
+These certifications strengthened my expertise in:
 
 - Software Quality Assurance
-- Manual Testing
 - Test Automation
+- Functional Testing
+- Regression Testing
 - API Testing
+- REST API Validation
 - Cypress Automation
 - End-to-End Testing
-- Regression Testing
-- REST API Validation
-- Test Design Techniques
 - Automated Test Analysis
+- Test Design Techniques
+
+---
+
+## 💡 Practical Application
+
+The concepts covered in these certifications have been applied throughout this portfolio, including:
+
+- Designing scalable Cypress automation frameworks
+- Building API validation suites
+- Improving regression testing strategies
+- Implementing reusable automation architecture
+- Applying software testing best practices to real-world projects
 
 ---
 

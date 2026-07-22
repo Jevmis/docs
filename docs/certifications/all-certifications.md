@@ -1,6 +1,8 @@
 # 🎓 All Certifications & Professional Credentials
 
-A complete master registry of all professional certifications, technical program specializations, and institutional credentials earned over my career.
+This registry contains every professional certification I have earned, organized in a single location for easy reference. Each entry includes the issuing organization, completion date, key skills, and a verification link or credential ID where publicly available.
+
+The certifications span software testing, quality engineering, automation, cybersecurity, software engineering, DevOps, project management, customer experience, data analytics, and professional development, reflecting my commitment to continuous learning and practical application.
 
 | S/N | Certification / Course Title | Provider | Issued | Verification & Details |
 | :--- | :--- | :--- | :--- | :--- |
@@ -99,7 +101,7 @@ A complete master registry of all professional certifications, technical program
 | 93 | **The Bits and Bytes of Computer Networking** | Coursera | Feb 2022 | ID: `ZFC9E424Z3VP` <br> [Verify :material-open-in-new:](https://www.coursera.org/account/accomplishments/verify/ZFC9E424Z3VP) |
 | 94 | **Technical Support Fundamentals** | Coursera | Dec 2021 | ID: `BAD2WKC3KXGB` <br> [Verify :material-open-in-new:](https://www.coursera.org/account/accomplishments/verify/BAD2WKC3KXGB) |
 | 95 | **Softskills** | Jobberman Nigeria | Jun 2021 | *Internal Record* |
-| 96 | **Membership Certificate** | IAENG | Oct 2020 | *Internal Record* |
+| 96 | **Membership Certificate** | IAENG | Oct 2020 | ID: `270898` <br> *Internal Record* | |
 | 97 | **Environmental, Health and Safety Certifications (BEAC)** | Synergy | Aug 2020 | *Internal Record* |
 | 98 | **Certified Secure Computer User (C/SCU)** | EC-Council | Mar 2015 | ID: `ECC17767873891` <br> *Internal Record* |
 
