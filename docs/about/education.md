@@ -45,7 +45,7 @@ My academic background in Computer Engineering provided a strong understanding o
 - System Design
 - Algorithms and Data Structures
 
-This engineering foundation enables me to approach software quality with a broader perspective—understanding not only how applications should be tested, but also how they are designed, built, deployed, and maintained. It also allows me to collaborate effectively with developers, architects, business analysts, and other stakeholders throughout the software development lifecycle.
+This engineering foundation enables me to approach software quality with a broader perspective understanding not only how applications should be tested, but also how they are designed, built, deployed, and maintained. It also allows me to collaborate effectively with developers, architects, business analysts, and other stakeholders throughout the software development lifecycle.
 
 ---
 
