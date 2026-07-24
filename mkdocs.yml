@@ -129,17 +129,17 @@ extra:
       name: Call
 
   analytics:
-  provider: google
-  property: G-FLYVY5BSCK
+    provider: google
+    property: G-FLYVY5BSCK
 
-  feedback:
-    title: Was this page helpful?
-    ratings:
-      - icon: material/thumb-up-outline
-        name: Helpful
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Helpful
 
-      - icon: material/thumb-down-outline
-        name: Needs Improvement
+        - icon: material/thumb-down-outline
+          name: Needs Improvement
 
 extra_css:
   - styles/extra.css
